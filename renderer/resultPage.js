@@ -27,26 +27,33 @@ window.data.allData((data)=>{
         const row = 
         ` 
           <tr>
-        <th scope="row">${i + 1}</th>
-        <td>
+        <td scope="col">${i + 1}</td>
+        <td scope="col">
         <a target="_blank" alt="${item['Map Url']}" href="${item['Map Url']}">
         ${cutStr(item['Map Url'])}
         </a>
         </td>
-        <td>${item['Place Name']}
+        <td scope="col">${item['Place Name']}
         </td>
-        <td>${item['rating']}
+        <td scope="col">${item['Category']}
         </td>
-        <td>${item['Number Of Reviews']}</td>
-        <td>
+        <td scope="col">${item['rating']}
+        </td>
+        <td scope="col">${item['Number Of Reviews']}</td>
+        <td scope="col">
         <a  target="_blank" href="${item['Website']}">
         ${cutStr(item['Website'])}
         </a>
         </td>
     
-        <td>${item['Phone Number']}</td>
-        <td>${cutStr(item['Address'])}</td>
-        <td>=> <input type="checkbox" class="item-checkbox"/><td/>
+        <td scope="col">${item['Phone Number']}</td>
+        <td scope="col">${cutStr(item['Address'])}</td>
+        <td scope="col">${item['Latitude']}</td>
+        <td scope="col">${item['Longitude']}</td>
+        <td scope="col">${item['Emails'][0] ? item['Emails'][0] : ''}</td>
+        <td scope="col">${item['Emails'][1] ? item['Emails'][1] : ''}</td>
+        <td scope="col">${item['Emails'][2] ? item['Emails'][2] : ''}</td>
+        <td scope="col">=> <input type="checkbox" class="item-checkbox"/><td/>
       </tr>
       
     `
@@ -72,20 +79,36 @@ xlBtn.addEventListener('click', (e)=>{
 
 selectAllItemsCheckbox.addEventListener('change', (e)=>{
     const itemsCheckboxes  = document.querySelectorAll('.item-checkbox')
-    console.log('checked')
     for(let i = 0 ; i < itemsCheckboxes.length; i++){
-        console.log(selectAllItemsCheckbox.checked);
-        console.log(itemsCheckboxes[i].checked)
         selectAllItemsCheckbox.checked ? itemsCheckboxes[i].checked = true : itemsCheckboxes[i].checked = false
     }
 })
 
 
-scrapeReviewsBtn.addEventListener('click', (e)=>{
+scrapeReviewsBtn.addEventListener('click', async(e)=>{
+    // check if all data selected
+    if(selectAllItemsCheckbox.checked){
+        scrapeReviewsBtn.disabled = true;
+        document.querySelectorAll('input[type="checkbox"]').disabled = true;
+        await window.mainProcess.scrapeAllReviews('');
+        return
+    }
 
-    // check if all data selected 
-
-
-    // collect selected data
-
+    // check selected items 
+    const itemsCheckboxes  = document.querySelectorAll('.item-checkbox');
+    const itemsSelectedIndexes = [];
+    for(let i = 0; i < itemsCheckboxes.length; i++){
+        if(itemsCheckboxes[i].checked) itemsSelectedIndexes.push([i]);
+    }
+    if(itemsSelectedIndexes.length > 0){
+        scrapeReviewsBtn.disabled = true;
+        await window.mainProcess.scrapeSomeReviews(itemsSelectedIndexes);
+    }
+    
 })
+
+window.mainProcess.reviewsProcess((condition)=>{
+    console.log(condition)
+    scrapeReviewsBtn.disabled = false
+  })
+  

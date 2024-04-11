@@ -7,5 +7,6 @@ module.exports = {
     ratingsNumber: ".fontBodyMedium.dmRWX",
     fullAddress: "button.CsEnBe",
     website: "a.CsEnBe",
+    category:'span [jsaction="pane.wfvdle8.category"]'
   };
   

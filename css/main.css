@@ -1,6 +1,25 @@
 @import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
+*,body{
+    background-color: #008080;
+    color: white;
 
+}
+table{
+
+    background-color:white;
+}
+table a {
+    background-color: white;
+    text-decoration: none;
+}
+#searchCity{
+    color: white;
+    
+    border: none;
+    padding:4px;
+    border-radius: 10px;
+}
 .container{
     display: flex;
     height:90vh;
@@ -12,7 +31,7 @@
 
 .image{
    
-    width:30%;
+    width:20%;
     align-self: center;
 }
 .image img{
