@@ -47,6 +47,7 @@ module.exports = getEmails = async (url, page) => {
 
     return finalEmails;
   } catch (e) {
+
     console.log(e);
     return [];
   }
