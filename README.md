@@ -12,16 +12,16 @@ npm install
 
 ## App Usage 
 
+---
+
 ![Screenshot 1](./screenshots/1.png)
 
 ---
 
-*
-This is the main window : user can search for specific term to lool up on google maps there is many options to chosse from : 
+*This is the main window : user can search for specific term to lool up on google maps there is many options to chosse from : 
 1. display scraping page : it will shows the scraping browser 
 2. select country : if country selected it will show all cities in that country you can select all or chose some from : this help to get more resutls as per each search google maps show a maximum of 120 results 
-after click the submit button the scrapper will run then the button will be disabled to prevent error until the scrapper finished process 
-*
+after click the submit button the scrapper will run then the button will be disabled to prevent error until the scrapper finished process*
 
 
 ![Screenshot 2](./screenshots/3.png)
