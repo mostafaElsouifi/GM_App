@@ -14,6 +14,8 @@ npm install
 
 ![Screenshot 1](./screenshots/1.png)
 
+---
+
 *
 This is the main window : user can search for specific term to lool up on google maps there is many options to chosse from : 
 1. display scraping page : it will shows the scraping browser 
