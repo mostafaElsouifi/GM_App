@@ -5,7 +5,7 @@ const saveDataToExcel = require("./main_process/saveDataToExcel");
 const saveReviewsToExcel = require("./main_process/saveReviewsToExcel");
 
 const calcTime = require("./helpers/calcTime");
-const scrapeGM = require("./backend/mainData");
+const scrapeGM = require("./scrappers/mainData");
 const finalFilter = require('./helpers/finalFilter');
 
 const getSomeReviews = require('./main_process/getSomeReviews');
@@ -110,8 +110,6 @@ app.whenReady().then(async () => {
   ipcMain.on("download-reviews", (e) => {
     saveReviewsToExcel(data_reviews, e);
   });
-
-
 
   ipcMain.on("getAllReviews", async (e, getAll) => {
     data_reviews = await getAllReviews(getAll, data, data_reviews, resultWindow);

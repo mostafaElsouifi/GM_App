@@ -1,6 +1,5 @@
-const { app, BrowserWindow, ipcMain } = require("electron");
 const createWindow = require('./createWindow');
-const scrapeReviews = require('../backend/scrapeReviews');
+const scrapeReviews = require('../scrappers/scrapeReviews');
 const calcTime = require('../helpers/calcTime');
 
 module.exports = getAllReviews = async(getAll, data, data_reviews, resultWindow)=>{

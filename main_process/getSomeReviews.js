@@ -1,5 +1,5 @@
 const calcTime = require("../helpers/calcTime");
-const scrapeReviews = require("../backend/scrapeReviews");
+const scrapeReviews = require("../scrappers/scrapeReviews");
 const createWindow = require('./createWindow');
 
 module.exports = getSomeReviews = async (getSome, data, data_reviews, resultWindow) => {

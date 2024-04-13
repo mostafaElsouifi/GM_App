@@ -159,6 +159,7 @@ const scrapeGM = async (searchTerm, displayScraping, countrySelected, city) => {
     }
       
     }
+    
     await browser.close();
 
     return allData;
