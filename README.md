@@ -12,7 +12,7 @@ npm install
 
 ## App Usage 
 
-![Screenshot 1](/screenshots/1.png)
+![Screenshot 1](./screenshots/1.png)
 *
 This is the main window : user can search for specific term to lool up on google maps there is many options to chosse from : 
 1. display scraping page : it will shows the scraping browser 
@@ -22,7 +22,9 @@ after click the submit button the scrapper will run then the button will be disa
 *
 
 
-![Screenshot 2](/screenshots/3.png)
+![Screenshot 2](./screenshots/3.png)
+
+
 <!--
 ## Usage
 
