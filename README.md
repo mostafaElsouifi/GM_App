@@ -35,6 +35,21 @@ after click the submit button the scrapper will run then the button will be disa
 ---
 ![Screenshot 4](./screenshots/6.png)
 
+- after that can sve data to excel sheet or start scrape reviews . 
+
+---
+### scrape reviews:
+- after the result appear the user will have an option to scrape reviews . 
+1. select all reviews to scrape
+2. select some reviews 
+
+![Screenshot 5](./screenshots/7.png)
+---
+![Screenshot 4](./screenshots/6.png)
+
+
+
+
 <!--
 ## Usage
 
