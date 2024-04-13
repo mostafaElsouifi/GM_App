@@ -27,11 +27,12 @@ after click the submit button the scrapper will run then the button will be disa
 
 ![Screenshot 2](./screenshots/3.png)
 
-- the scraper search and collect google maps data it will if the place have a website it will navigate to the website and parse the home page looking for emails 
+- the scraper search and collect google maps available data .  if the place have a website it will navigate to the website and parse the home page looking for emails 
 
 
 ### Result :
 ![Screenshot 3](./screenshots/5.png)
+---
 ![Screenshot 4](./screenshots/6.png)
 
 <!--
