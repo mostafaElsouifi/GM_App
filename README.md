@@ -22,9 +22,17 @@ npm install
 2. **select country :** if country selected it will show all cities in that country you can select all or chose some from : this help to get more resutls as per each search google maps show a maximum of 120 results 
 after click the submit button the scrapper will run then the button will be disabled to prevent error until the scrapper finished process
 
+--- 
+
 
 ![Screenshot 2](./screenshots/3.png)
 
+- the scraper search and collect google maps data it will if the place have a website it will navigate to the website and parse the home page looking for emails 
+
+
+### Result :
+![Screenshot 3](./screenshots/5.png)
+![Screenshot 4](./screenshots/6.png)
 
 <!--
 ## Usage
