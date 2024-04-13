@@ -45,7 +45,10 @@ after click the submit button the scrapper will run then the button will be disa
 
 ![Screenshot 5](./screenshots/7.png)
 ---
-![Screenshot 4](./screenshots/6.png)
+
+### reviews result : 
+
+![Screenshot 6](./screenshots/8.png)
 
 
 
