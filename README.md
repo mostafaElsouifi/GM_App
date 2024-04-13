@@ -36,6 +36,8 @@ after click the submit button the scrapper will run then the button will be disa
 ![Screenshot 4](./screenshots/6.png)
 
 - after that can sve data to excel sheet or start scrape reviews . 
+---
+![Screenshot 5](./screenshots/maps-main.png)
 
 ---
 ### scrape reviews:
@@ -43,12 +45,12 @@ after click the submit button the scrapper will run then the button will be disa
 1. select all reviews to scrape
 2. select some reviews 
 
-![Screenshot 5](./screenshots/7.png)
+![Screenshot 6](./screenshots/7.png)
 ---
 
 ### reviews result : 
 
-![Screenshot 6](./screenshots/8.png)
+![Screenshot 7](./screenshots/8.png)
 
 
 
