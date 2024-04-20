@@ -41,20 +41,34 @@ app.whenReady().then(async () => {
       e.preventDefault();
       const startTime = new Date();
       data = [];
+      const browserPromises = [];
+
       if (citiesSelected.length > 0) {
-          for (let i = 0; i < citiesSelected.length; i++) {
-            currentData = await scrapeGM(
-              searchValue,
-              displayScraping,
-              countrySelected,
-              citiesSelected[i]
-            );
-            data.push(...currentData);
+          for (let i = 0; i < citiesSelected.length; i += 3) {
+            const chunk = citiesSelected.slice(i, i + 3);
+
+            // Open multiple browser instances simultaneously
+            const promises = chunk.map(async (city) => {
+              currentData = await scrapeGM(
+                searchValue,
+                displayScraping,
+                countrySelected,
+                city
+              );
+              data.push(...currentData);
+            });
+    
+            // Wait for all promises in the current chunk to resolve
+             await Promise.all(promises);
+            // Close all browser instances after navigating to URLs in the current chunk
+           // await Promise.all(promises.map(p => p.then(d => data.push(...d))));
+
           }
 
           // filter data and remove  duplicates 
 
           data = finalFilter(data);
+          console.log(data)
           const endTime = new Date();
 
           const timeExecuted = calcTime(startTime, endTime);

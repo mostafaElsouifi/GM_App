@@ -1,8 +1,8 @@
 const allCountries = [
   {
-    "id": 0,
-    "country": "Afghanistan",
-    "cities": [
+    id: 0,
+    country: "Afghanistan",
+    cities: [
       "Herat",
       "Kabul",
       "Kandahar",
@@ -10,25 +10,25 @@ const allCountries = [
       "Rana",
       "Shar",
       "Sharif",
-      "Wazir Akbar Khan"
-    ]
+      "Wazir Akbar Khan",
+    ],
   },
   {
-    "id": 1,
-    "country": "Albania",
-    "cities": [
+    id: 1,
+    country: "Albania",
+    cities: [
       "Elbasan",
       "Petran",
       "Pogradec",
       "Shkoder",
       "Tirana",
-      "Ura Vajgurore"
-    ]
+      "Ura Vajgurore",
+    ],
   },
   {
-    "id": 2,
-    "country": "Algeria",
-    "cities": [
+    id: 2,
+    country: "Algeria",
+    cities: [
       "Algiers",
       "Annaba",
       "Azazga",
@@ -60,13 +60,13 @@ const allCountries = [
       "Tissemsilt",
       "Tizi",
       "Tizi Ouzou",
-      "Tlemcen"
-    ]
+      "Tlemcen",
+    ],
   },
   {
-    "id": 3,
-    "country": "Andorra",
-    "cities": [
+    id: 3,
+    country: "Andorra",
+    cities: [
       "Andorra la Vella",
       "Canillo",
       "Encamp",
@@ -77,13 +77,13 @@ const allCountries = [
       "Ordino",
       "Santa Coloma",
       "Sispony",
-      "Soldeu"
-    ]
+      "Soldeu",
+    ],
   },
   {
-    "id": 4,
-    "country": "Angola",
-    "cities": [
+    id: 4,
+    country: "Angola",
+    cities: [
       "Ambriz",
       "Benguela",
       "Cabinda",
@@ -104,13 +104,13 @@ const allCountries = [
       "Ondjiva",
       "Piri",
       "Saurimo",
-      "Talatona"
-    ]
+      "Talatona",
+    ],
   },
   {
-    "id": 5,
-    "country": "Anguilla",
-    "cities": [
+    id: 5,
+    country: "Anguilla",
+    cities: [
       "The Valley",
       "Blowing Point Village",
       "Sandy Ground Village",
@@ -124,25 +124,25 @@ const allCountries = [
       "Stoney Ground",
       "Farrington",
       "The Quarter",
-      "West End Village"
-    ]
+      "West End Village",
+    ],
   },
   {
-    "id": 6,
-    "country": "Antigua and Barbuda",
-    "cities": [
+    id: 6,
+    country: "Antigua and Barbuda",
+    cities: [
       "All Saints",
       "Cassada Gardens",
       "Codrington",
       "Old Road",
       "Parham",
-      "Woods"
-    ]
+      "Woods",
+    ],
   },
   {
-    "id": 7,
-    "country": "Argentina",
-    "cities": [
+    id: 7,
+    country: "Argentina",
+    cities: [
       "28 de Noviembre",
       "Abasto",
       "Acassuso",
@@ -720,13 +720,13 @@ const allCountries = [
       "Wilde",
       "Winifreda",
       "Yerba Buena",
-      "Zenon Pereyra"
-    ]
+      "Zenon Pereyra",
+    ],
   },
   {
-    "id": 8,
-    "country": "Armenia",
-    "cities": [
+    id: 8,
+    country: "Armenia",
+    cities: [
       "Abovyan",
       "Agarak",
       "Apaga",
@@ -740,13 +740,13 @@ const allCountries = [
       "Kapan",
       "Tsaghkadzor",
       "Vanadzor",
-      "Yerevan"
-    ]
+      "Yerevan",
+    ],
   },
   {
-    "id": 9,
-    "country": "Aruba",
-    "cities": [
+    id: 9,
+    country: "Aruba",
+    cities: [
       "Noord",
       "Oranjestad",
       "Palm Beach",
@@ -757,13 +757,13 @@ const allCountries = [
       "Santa Cruz",
       "Sero Blanco",
       "Sint Nicolaas",
-      "Tanki Lender"
-    ]
+      "Tanki Lender",
+    ],
   },
   {
-    "id": 10,
-    "country": "Australia",
-    "cities": [
+    id: 10,
+    country: "Australia",
+    cities: [
       "Abbotsford",
       "Abbotsham",
       "Aberdeen",
@@ -2719,13 +2719,13 @@ const allCountries = [
       "Yorkeys Knob",
       "Young",
       "Yowie Bay",
-      "Zeehan"
-    ]
+      "Zeehan",
+    ],
   },
   {
-    "id": 11,
-    "country": "Austria",
-    "cities": [
+    id: 11,
+    country: "Austria",
+    cities: [
       "Absam",
       "Absdorf",
       "Abtenau",
@@ -4115,13 +4115,13 @@ const allCountries = [
       "Zurndorf",
       "Zwentendorf",
       "Zwettl Stadt",
-      "Zwolfaxing"
-    ]
+      "Zwolfaxing",
+    ],
   },
   {
-    "id": 12,
-    "country": "Azerbaijan",
-    "cities": [
+    id: 12,
+    country: "Azerbaijan",
+    cities: [
       "Baku",
       "Nakhchivan",
       "Quba",
@@ -4129,26 +4129,26 @@ const allCountries = [
       "Sulutapa",
       "Sumqayit",
       "Xirdalan",
-      "Zurges"
-    ]
+      "Zurges",
+    ],
   },
   {
-    "id": 13,
-    "country": "Bahamas",
-    "cities": [
+    id: 13,
+    country: "Bahamas",
+    cities: [
       "Andros Town",
       "Dunmore Town",
       "Freeport",
       "Marsh Harbour",
       "Nassau",
       "Palmetto Point",
-      "Spanish Wells"
-    ]
+      "Spanish Wells",
+    ],
   },
   {
-    "id": 14,
-    "country": "Bahrain",
-    "cities": [
+    id: 14,
+    country: "Bahrain",
+    cities: [
       "Al Budayyi`",
       "Al Hadd",
       "Al Hamalah",
@@ -4165,13 +4165,13 @@ const allCountries = [
       "Sanabis",
       "Sanad",
       "Sitrah",
-      "Tubli"
-    ]
+      "Tubli",
+    ],
   },
   {
-    "id": 15,
-    "country": "Bangladesh",
-    "cities": [
+    id: 15,
+    country: "Bangladesh",
+    cities: [
       "Agrabad",
       "Bangla",
       "Barisal",
@@ -4188,13 +4188,13 @@ const allCountries = [
       "Narayanganj",
       "Rajshahi",
       "Tejgaon",
-      "Uttara"
-    ]
+      "Uttara",
+    ],
   },
   {
-    "id": 16,
-    "country": "Barbados",
-    "cities": [
+    id: 16,
+    country: "Barbados",
+    cities: [
       "Atlantic Shores",
       "Bagatelle",
       "Bloomsbury",
@@ -4217,13 +4217,13 @@ const allCountries = [
       "Warrens",
       "White Hill",
       "Wildey",
-      "Worthing"
-    ]
+      "Worthing",
+    ],
   },
   {
-    "id": 17,
-    "country": "Belarus",
-    "cities": [
+    id: 17,
+    country: "Belarus",
+    cities: [
       "Baranovichi",
       "Borisov",
       "Brest",
@@ -4245,13 +4245,13 @@ const allCountries = [
       "Shklow",
       "Vitebsk",
       "Zaslawye",
-      "Zhodzina"
-    ]
+      "Zhodzina",
+    ],
   },
   {
-    "id": 18,
-    "country": "Belgium",
-    "cities": [
+    id: 18,
+    country: "Belgium",
+    cities: [
       "Aalbeke",
       "Aalst",
       "Aalter",
@@ -5389,26 +5389,26 @@ const allCountries = [
       "Zwevegem",
       "Zwevezele",
       "Zwijnaarde",
-      "Zwijndrecht"
-    ]
+      "Zwijndrecht",
+    ],
   },
   {
-    "id": 19,
-    "country": "Belize",
-    "cities": [
+    id: 19,
+    country: "Belize",
+    cities: [
       "Belize City",
       "Belmopan",
       "Benque Viejo del Carmen",
       "Freetown Sibun",
       "Ladyville",
       "San Ignacio",
-      "San Pedro Town"
-    ]
+      "San Pedro Town",
+    ],
   },
   {
-    "id": 20,
-    "country": "Benin",
-    "cities": [
+    id: 20,
+    country: "Benin",
+    cities: [
       "Alibori",
       "Atakora",
       "Atlantique",
@@ -5420,13 +5420,13 @@ const allCountries = [
       "Mono",
       "Oueme",
       "Plateau",
-      "Zou"
-    ]
+      "Zou",
+    ],
   },
   {
-    "id": 21,
-    "country": "Bermuda",
-    "cities": [
+    id: 21,
+    country: "Bermuda",
+    cities: [
       "Devonshire",
       "Hamilton",
       "Paget",
@@ -5436,13 +5436,13 @@ const allCountries = [
       "Sandys",
       "Smith's",
       "Southampton",
-      "Warwick"
-    ]
+      "Warwick",
+    ],
   },
   {
-    "id": 22,
-    "country": "Bhutan",
-    "cities": [
+    id: 22,
+    country: "Bhutan",
+    cities: [
       "Bumthang",
       "Chukha",
       "Dagana",
@@ -5462,13 +5462,13 @@ const allCountries = [
       "Trongsa",
       "Tsirang",
       "Wangdue Phodrang",
-      "Zhemgang"
-    ]
+      "Zhemgang",
+    ],
   },
   {
-    "id": 23,
-    "country": "Bolivia",
-    "cities": [
+    id: 23,
+    country: "Bolivia",
+    cities: [
       "Anillo",
       "Aroma",
       "Bermejo",
@@ -5484,13 +5484,13 @@ const allCountries = [
       "Santa Cruz",
       "Sucre",
       "Tarija",
-      "Trinidad"
-    ]
+      "Trinidad",
+    ],
   },
   {
-    "id": 24,
-    "country": "Bosnia and Herzegovina",
-    "cities": [
+    id: 24,
+    country: "Bosnia and Herzegovina",
+    cities: [
       "Banja",
       "Banja Luka",
       "Bijeljina",
@@ -5530,24 +5530,18 @@ const allCountries = [
       "Vogosca",
       "Zenica",
       "Zepce",
-      "Zivinice"
-    ]
+      "Zivinice",
+    ],
   },
   {
-    "id": 25,
-    "country": "Botswana",
-    "cities": [
-      "Francistown",
-      "Gaborone",
-      "Orapa",
-      "Serowe",
-      "Village"
-    ]
+    id: 25,
+    country: "Botswana",
+    cities: ["Francistown", "Gaborone", "Orapa", "Serowe", "Village"],
   },
   {
-    "id": 26,
-    "country": "Brazil",
-    "cities": [
+    id: 26,
+    country: "Brazil",
+    cities: [
       "Abadiania",
       "Abaetetuba",
       "Abelardo Luz",
@@ -7574,13 +7568,13 @@ const allCountries = [
       "Witmarsum",
       "Xanxere",
       "Xavantina",
-      "Xaxim"
-    ]
+      "Xaxim",
+    ],
   },
   {
-    "id": 27,
-    "country": "British Indian Ocean Territory",
-    "cities": [
+    id: 27,
+    country: "British Indian Ocean Territory",
+    cities: [
       "Carcasse",
       "Downtown",
       "East Point Settlement",
@@ -7592,26 +7586,26 @@ const allCountries = [
       "Peros Banhos (island)",
       "Eagle Islands (island)",
       "Salomon Islands (island)",
-      "Danger Islands (island)"
-    ]
+      "Danger Islands (island)",
+    ],
   },
   {
-    "id": 28,
-    "country": "Brunei",
-    "cities": [
+    id: 28,
+    country: "Brunei",
+    cities: [
       "Bandar Seri Begawan",
       "Bangar",
       "Kampong Jerudong",
       "Kuala Belait",
       "Panaga",
       "Seria",
-      "Tutong"
-    ]
+      "Tutong",
+    ],
   },
   {
-    "id": 29,
-    "country": "Bulgaria",
-    "cities": [
+    id: 29,
+    country: "Bulgaria",
+    cities: [
       "Akhtopol",
       "Aksakovo",
       "Aleksandriya",
@@ -7831,13 +7825,13 @@ const allCountries = [
       "Yambol",
       "Zavet",
       "Zlatitrap",
-      "Zlatograd"
-    ]
+      "Zlatograd",
+    ],
   },
   {
-    "id": 30,
-    "country": "Burkina Faso",
-    "cities": [
+    id: 30,
+    country: "Burkina Faso",
+    cities: [
       "Bale",
       "Bam",
       "Banwa",
@@ -7882,13 +7876,13 @@ const allCountries = [
       "Yatenga",
       "Ziro",
       "Zondoma",
-      "Zoundweogo"
-    ]
+      "Zoundweogo",
+    ],
   },
   {
-    "id": 31,
-    "country": "Myanmar",
-    "cities": [
+    id: 31,
+    country: "Myanmar",
+    cities: [
       "Ayeyarwady",
       "Bago",
       "Magway",
@@ -7908,13 +7902,13 @@ const allCountries = [
       "Kyauktada",
       "Mandalay",
       "Wagan",
-      "Yangon"
-    ]
+      "Yangon",
+    ],
   },
   {
-    "id": 32,
-    "country": "Burundi",
-    "cities": [
+    id: 32,
+    country: "Burundi",
+    cities: [
       "Bubanza",
       "Bujumbura Mairie",
       "Bujumbura Rural",
@@ -7931,13 +7925,13 @@ const allCountries = [
       "Mwaro",
       "Ngozi",
       "Rutana",
-      "Ruyigi"
-    ]
+      "Ruyigi",
+    ],
   },
   {
-    "id": 33,
-    "country": "Cambodia",
-    "cities": [
+    id: 33,
+    country: "Cambodia",
+    cities: [
       "Moung Roessei",
       "Phnom Penh",
       "Phumi Boeng (1)",
@@ -7951,13 +7945,13 @@ const allCountries = [
       "Phumi Vott Phnum",
       "Sihanoukville",
       "Tuol Kok",
-      "Vott Kampong Svay"
-    ]
+      "Vott Kampong Svay",
+    ],
   },
   {
-    "id": 34,
-    "country": "Cameroon",
-    "cities": [
+    id: 34,
+    country: "Cameroon",
+    cities: [
       "Bafia",
       "Bafoussam",
       "Bamenda",
@@ -7966,13 +7960,13 @@ const allCountries = [
       "Kribi",
       "Kumba",
       "Ringo",
-      "Tibati"
-    ]
+      "Tibati",
+    ],
   },
   {
-    "id": 35,
-    "country": "Canada",
-    "cities": [
+    id: 35,
+    country: "Canada",
+    cities: [
       "100 Mile House",
       "Abbey",
       "Abbotsford",
@@ -10067,39 +10061,39 @@ const allCountries = [
       "Yorkton",
       "Youbou",
       "Young",
-      "Youngstown"
-    ]
+      "Youngstown",
+    ],
   },
   {
-    "id": 36,
-    "country": "Cape Verde",
-    "cities": [
+    id: 36,
+    country: "Cape Verde",
+    cities: [
       "Praia",
       "Mindelo",
       "Cidade Velha",
       "Espargos",
       "Assomada",
       "Santa Maria",
-      "São Filipe"
-    ]
+      "São Filipe",
+    ],
   },
   {
-    "id": 37,
-    "country": "Cayman Islands",
-    "cities": [
+    id: 37,
+    country: "Cayman Islands",
+    cities: [
       "Bodden Town",
       "Coral Gables",
       "George Town",
       "Newlands",
       "Savannah",
       "Spot Bay",
-      "West Bay"
-    ]
+      "West Bay",
+    ],
   },
   {
-    "id": 38,
-    "country": "Central African Republic",
-    "cities": [
+    id: 38,
+    country: "Central African Republic",
+    cities: [
       "Bamingui-Bangoran",
       "Bangui",
       "Basse-Kotto",
@@ -10116,13 +10110,13 @@ const allCountries = [
       "Ouham",
       "Ouham-Pende",
       "Sangha-Mbaere",
-      "Vakaga"
-    ]
+      "Vakaga",
+    ],
   },
   {
-    "id": 39,
-    "country": "Chad",
-    "cities": [
+    id: 39,
+    country: "Chad",
+    cities: [
       "Batha",
       "Biltine",
       "Borkou-Ennedi-Tibesti",
@@ -10136,43 +10130,33 @@ const allCountries = [
       "Moyen-Chari",
       "Ouaddaï",
       "Salamat",
-      "Tandjile"
-    ]
+      "Tandjile",
+    ],
   },
   {
-    "id": 40,
-    "country": "Christmas Island",
-    "cities": [
+    id: 40,
+    country: "Christmas Island",
+    cities: [
       "Drumsite (settlement)",
       "Flying Fish Cove (settlement)",
       "Poon Saan (settlement)",
-      "Silver City (settlement)"
-    ]
+      "Silver City (settlement)",
+    ],
   },
   {
-    "id": 41,
-    "country": "Cocos (Keeling) Islands",
-    "cities": [
-      "Bantam (settlement)",
-      "West Island (island)"
-    ]
+    id: 41,
+    country: "Cocos (Keeling) Islands",
+    cities: ["Bantam (settlement)", "West Island (island)"],
   },
   {
-    "id": 42,
-    "country": "Cook Islands",
-    "cities": [
-      "Amuri",
-      "Arutanga",
-      "Avarua",
-      "Avatiu",
-      "Omoka",
-      "Oneroa"
-    ]
+    id: 42,
+    country: "Cook Islands",
+    cities: ["Amuri", "Arutanga", "Avarua", "Avatiu", "Omoka", "Oneroa"],
   },
   {
-    "id": 43,
-    "country": "Chile",
-    "cities": [
+    id: 43,
+    country: "Chile",
+    cities: [
       "Algarrobo",
       "Angol",
       "Antofagasta",
@@ -10293,13 +10277,13 @@ const allCountries = [
       "Vallenar",
       "Villa Alemana",
       "Villarrica",
-      "Vitacura"
-    ]
+      "Vitacura",
+    ],
   },
   {
-    "id": 44,
-    "country": "China",
-    "cities": [
+    id: 44,
+    country: "China",
+    cities: [
       "Aishang",
       "Aizhou",
       "Aksu",
@@ -12015,13 +11999,13 @@ const allCountries = [
       "Zongxoi",
       "Zoucheng",
       "Zunyi",
-      "Zuxi"
-    ]
+      "Zuxi",
+    ],
   },
   {
-    "id": 45,
-    "country": "Colombia",
-    "cities": [
+    id: 45,
+    country: "Colombia",
+    cities: [
       "Acacias",
       "Acevedo",
       "Aguachica",
@@ -12132,33 +12116,23 @@ const allCountries = [
       "Villavicencio",
       "Yopal",
       "Yotoco",
-      "Yumbo"
-    ]
+      "Yumbo",
+    ],
   },
   {
-    "id": 46,
-    "country": "Comoros",
-    "cities": [
-      "Grande Comore (Njazidja)",
-      "Anjouan (Nzwani)",
-      "Moheli (Mwali)"
-    ]
+    id: 46,
+    country: "Comoros",
+    cities: ["Grande Comore (Njazidja)", "Anjouan (Nzwani)", "Moheli (Mwali)"],
   },
   {
-    "id": 47,
-    "country": "Congo",
-    "cities": [
-      "Banana",
-      "Goma",
-      "Kinshasa",
-      "Likasi",
-      "Lubumbashi"
-    ]
+    id: 47,
+    country: "Congo",
+    cities: ["Banana", "Goma", "Kinshasa", "Likasi", "Lubumbashi"],
   },
   {
-    "id": 48,
-    "country": "Costa Rica",
-    "cities": [
+    id: 48,
+    country: "Costa Rica",
+    cities: [
       "Alajuela",
       "Alajuelita",
       "Alfaro",
@@ -12222,13 +12196,13 @@ const allCountries = [
       "Turrialba",
       "Turrucares",
       "Zapote",
-      "Zarcero"
-    ]
+      "Zarcero",
+    ],
   },
   {
-    "id": 49,
-    "country": "Croatia",
-    "cities": [
+    id: 49,
+    country: "Croatia",
+    cities: [
       "Antunovac",
       "Baska",
       "Baska Voda",
@@ -12369,13 +12343,13 @@ const allCountries = [
       "Zadar",
       "Zagreb",
       "Zapresic",
-      "Zlatar"
-    ]
+      "Zlatar",
+    ],
   },
   {
-    "id": 50,
-    "country": "Cuba",
-    "cities": [
+    id: 50,
+    country: "Cuba",
+    cities: [
       "Bayamo",
       "Cienfuegos",
       "Habana",
@@ -12385,13 +12359,13 @@ const allCountries = [
       "Matanzas",
       "Santiago de Cuba",
       "Varadero",
-      "Villa"
-    ]
+      "Villa",
+    ],
   },
   {
-    "id": 51,
-    "country": "Cyprus",
-    "cities": [
+    id: 51,
+    country: "Cyprus",
+    cities: [
       "Agia Anna",
       "Aradippou",
       "Ayia Marina",
@@ -12416,13 +12390,13 @@ const allCountries = [
       "Prodromi",
       "Sotira",
       "Strovolos",
-      "Tera"
-    ]
+      "Tera",
+    ],
   },
   {
-    "id": 52,
-    "country": "Czech Republic",
-    "cities": [
+    id: 52,
+    country: "Czech Republic",
+    cities: [
       "Adamov",
       "Albrechtice",
       "Arnoltice",
@@ -13362,13 +13336,13 @@ const allCountries = [
       "Znojmo",
       "Zubri",
       "Zulova",
-      "Zvole"
-    ]
+      "Zvole",
+    ],
   },
   {
-    "id": 53,
-    "country": "Denmark",
-    "cities": [
+    id: 53,
+    country: "Denmark",
+    cities: [
       "Aabenraa",
       "Aabybro",
       "Aalborg",
@@ -13935,24 +13909,18 @@ const allCountries = [
       "Vojens",
       "Vorbasse",
       "Vordingborg",
-      "Vra"
-    ]
+      "Vra",
+    ],
   },
   {
-    "id": 54,
-    "country": "Djibouti",
-    "cities": [
-      "Ali Sabih",
-      "Dikhil",
-      "Djibouti",
-      "Obock",
-      "Tadjoura"
-    ]
+    id: 54,
+    country: "Djibouti",
+    cities: ["Ali Sabih", "Dikhil", "Djibouti", "Obock", "Tadjoura"],
   },
   {
-    "id": 55,
-    "country": "Dominica",
-    "cities": [
+    id: 55,
+    country: "Dominica",
+    cities: [
       "Saint Andrew",
       "Saint David",
       "Saint George",
@@ -13962,13 +13930,13 @@ const allCountries = [
       "Saint Mark",
       "Saint Patrick",
       "Saint Paul",
-      "Saint Peter"
-    ]
+      "Saint Peter",
+    ],
   },
   {
-    "id": 56,
-    "country": "Dominican Republic",
-    "cities": [
+    id: 56,
+    country: "Dominican Republic",
+    cities: [
       "Arenazo",
       "Bavaro",
       "Boca Chica",
@@ -13991,13 +13959,13 @@ const allCountries = [
       "San Jose de Ocoa",
       "Santa Cruz de Barahona",
       "Santiago de los Caballeros",
-      "Santo Domingo"
-    ]
+      "Santo Domingo",
+    ],
   },
   {
-    "id": 57,
-    "country": "Timor-Leste",
-    "cities": [
+    id: 57,
+    country: "Timor-Leste",
+    cities: [
       "Aileu",
       "Ainaro",
       "Baucau",
@@ -14010,23 +13978,23 @@ const allCountries = [
       "Manatuto",
       "Manufahi",
       "Oecussi",
-      "Viqueque"
-    ]
+      "Viqueque",
+    ],
   },
   {
-    "id": 58,
-    "country": "Tokelau",
-    "cities": [
+    id: 58,
+    country: "Tokelau",
+    cities: [
       "Atafu Village (village)",
       "Nukunonu (village)",
       "Fakaofo (village)",
-      "Fale (village)"
-    ]
+      "Fale (village)",
+    ],
   },
   {
-    "id": 59,
-    "country": "Turks and Caicos Islands",
-    "cities": [
+    id: 59,
+    country: "Turks and Caicos Islands",
+    cities: [
       "Back Salina",
       "Blue Hills",
       "Blue Mountain",
@@ -14060,13 +14028,13 @@ const allCountries = [
       "Turtle Cove",
       "West Road",
       "Wheeland",
-      "Whitby"
-    ]
+      "Whitby",
+    ],
   },
   {
-    "id": 60,
-    "country": "Ecuador",
-    "cities": [
+    id: 60,
+    country: "Ecuador",
+    cities: [
       "Ambato",
       "Atacames",
       "Atuntaqui",
@@ -14135,13 +14103,13 @@ const allCountries = [
       "Vinces",
       "Zamora",
       "Zaruma",
-      "Zumba"
-    ]
+      "Zumba",
+    ],
   },
   {
-    "id": 61,
-    "country": "Egypt",
-    "cities": [
+    id: 61,
+    country: "Egypt",
+    cities: [
       "Abu Hammad",
       "Al Mahallah al Kubra",
       "Al Mansurah",
@@ -14180,13 +14148,13 @@ const allCountries = [
       "Suez",
       "Tanta",
       "Toukh",
-      "Zagazig"
-    ]
+      "Zagazig",
+    ],
   },
   {
-    "id": 62,
-    "country": "El Salvador",
-    "cities": [
+    id: 62,
+    country: "El Salvador",
+    cities: [
       "Ahuachapan",
       "Antiguo Cuscatlan",
       "Apaneca",
@@ -14216,38 +14184,38 @@ const allCountries = [
       "Sonsonate",
       "Soyapango",
       "Usulutan",
-      "Zaragoza"
-    ]
+      "Zaragoza",
+    ],
   },
   {
-    "id": 63,
-    "country": "Equatorial Guinea",
-    "cities": [
+    id: 63,
+    country: "Equatorial Guinea",
+    cities: [
       "Annobon",
       "Bioko Norte",
       "Bioko Sur",
       "Centro Sur",
       "Kie-Ntem",
       "Litoral",
-      "Wele-Nzas"
-    ]
+      "Wele-Nzas",
+    ],
   },
   {
-    "id": 64,
-    "country": "Eritrea",
-    "cities": [
+    id: 64,
+    country: "Eritrea",
+    cities: [
       "Anseba",
       "Debub",
       "Debubawi K'eyih Bahri",
       "Gash Barka",
       "Ma'akel",
-      "Semenawi Keyih Bahri"
-    ]
+      "Semenawi Keyih Bahri",
+    ],
   },
   {
-    "id": 65,
-    "country": "Estonia",
-    "cities": [
+    id: 65,
+    country: "Estonia",
+    cities: [
       "Aasmae",
       "Aaviku",
       "Aespa",
@@ -14314,13 +14282,13 @@ const allCountries = [
       "Venevere",
       "Viimsi",
       "Viljandi",
-      "Voka"
-    ]
+      "Voka",
+    ],
   },
   {
-    "id": 66,
-    "country": "Ethiopia",
-    "cities": [
+    id: 66,
+    country: "Ethiopia",
+    cities: [
       "Addis Ababa",
       "Afar",
       "Amhara",
@@ -14331,13 +14299,13 @@ const allCountries = [
       "Oromia",
       "Somali",
       "Tigray",
-      "Southern Nations, Nationalities, and Peoples Region"
-    ]
+      "Southern Nations, Nationalities, and Peoples Region",
+    ],
   },
   {
-    "id": 67,
-    "country": "Faroe Islands",
-    "cities": [
+    id: 67,
+    country: "Faroe Islands",
+    cities: [
       "Argir",
       "Glyvrar",
       "Hvalba",
@@ -14345,13 +14313,13 @@ const allCountries = [
       "Leirvik",
       "Saltangara",
       "Signabour",
-      "Strendur"
-    ]
+      "Strendur",
+    ],
   },
   {
-    "id": 68,
-    "country": "Falkland Islands",
-    "cities": [
+    id: 68,
+    country: "Falkland Islands",
+    cities: [
       "Ajax Bay",
       "Beaver Settlement",
       "Bluff Cove Settlement",
@@ -14416,24 +14384,24 @@ const allCountries = [
       "Volunteer Point",
       "Walker Creek",
       "Weddell Settlement",
-      "Westpoint Island Settlement"
-    ]
+      "Westpoint Island Settlement",
+    ],
   },
   {
-    "id": 69,
-    "country": "Fiji",
-    "cities": [
+    id: 69,
+    country: "Fiji",
+    cities: [
       "Central (Suva)",
       "Eastern (Levuka)",
       "Northern (Labasa)",
       "Rotuma",
-      "Western (Lautoka)"
-    ]
+      "Western (Lautoka)",
+    ],
   },
   {
-    "id": 70,
-    "country": "Finland",
-    "cities": [
+    id: 70,
+    country: "Finland",
+    cities: [
       "Aapajoki",
       "Aavasaksa",
       "Aitoo",
@@ -14904,13 +14872,13 @@ const allCountries = [
       "Ylihaermae",
       "Ylitornio",
       "Ylivieska",
-      "Ypaejae"
-    ]
+      "Ypaejae",
+    ],
   },
   {
-    "id": 71,
-    "country": "France",
-    "cities": [
+    id: 71,
+    country: "France",
+    cities: [
       "Aast",
       "Abancourt",
       "Abbans-Dessus",
@@ -27458,49 +27426,35 @@ const allCountries = [
       "Zinswiller",
       "Zittersheim",
       "Zouafques",
-      "Zutzendorf"
-    ]
+      "Zutzendorf",
+    ],
   },
   {
-    "id": 72,
-    "country": "French Polynesia",
-    "cities": [
-      "Arue",
-      "Faaa",
-      "Mahina",
-      "Paeau",
-      "Papeete",
-      "Pirae",
-      "Punaauia"
-    ]
+    id: 72,
+    country: "French Polynesia",
+    cities: ["Arue", "Faaa", "Mahina", "Paeau", "Papeete", "Pirae", "Punaauia"],
   },
   {
-    "id": 73,
-    "country": "Gabon",
-    "cities": [
-      "Gamba",
-      "Libreville",
-      "Mamagnia",
-      "Moanda",
-      "Port-Gentil"
-    ]
+    id: 73,
+    country: "Gabon",
+    cities: ["Gamba", "Libreville", "Mamagnia", "Moanda", "Port-Gentil"],
   },
   {
-    "id": 74,
-    "country": "Gambia",
-    "cities": [
+    id: 74,
+    country: "Gambia",
+    cities: [
       "Banjul",
       "Central River",
       "Lower River",
       "North Bank",
       "Upper River",
-      "Western"
-    ]
+      "Western",
+    ],
   },
   {
-    "id": 75,
-    "country": "Georgia",
-    "cities": [
+    id: 75,
+    country: "Georgia",
+    cities: [
       "Gogolesubani",
       "Kutaisi",
       "Lentekhi",
@@ -27509,13 +27463,13 @@ const allCountries = [
       "Sukhumi",
       "Tbilisi",
       "Zemo-Avchala",
-      "Zugdidi"
-    ]
+      "Zugdidi",
+    ],
   },
   {
-    "id": 76,
-    "country": "Gibraltar",
-    "cities": [
+    id: 76,
+    country: "Gibraltar",
+    cities: [
       "Alameda de los Monos",
       "Bruce's Farm",
       "Buena Vista",
@@ -27551,13 +27505,13 @@ const allCountries = [
       "ಜಿಬ್ರಾಲ್ಟರ್",
       "ጅብራልታር",
       "ジブラルタル",
-      "直布罗陀"
-    ]
+      "直布罗陀",
+    ],
   },
   {
-    "id": 77,
-    "country": "Germany",
-    "cities": [
+    id: 77,
+    country: "Germany",
+    cities: [
       "Aach",
       "Aachen",
       "Aalen",
@@ -34806,13 +34760,13 @@ const allCountries = [
       "Zwiefalten",
       "Zwiesel",
       "Zwingenberg",
-      "Zwonitz"
-    ]
+      "Zwonitz",
+    ],
   },
   {
-    "id": 78,
-    "country": "Ghana",
-    "cities": [
+    id: 78,
+    country: "Ghana",
+    cities: [
       "Accra",
       "Bawku",
       "Berekum",
@@ -34828,13 +34782,13 @@ const allCountries = [
       "Takoradi",
       "Tema",
       "Wa",
-      "Winneba"
-    ]
+      "Winneba",
+    ],
   },
   {
-    "id": 79,
-    "country": "Greece",
-    "cities": [
+    id: 79,
+    country: "Greece",
+    cities: [
       "Aegina",
       "Agioi Anargyroi",
       "Agios Nikolaos",
@@ -34999,13 +34953,13 @@ const allCountries = [
       "Vouliagmeni",
       "Xanthi",
       "Xylokastro",
-      "Zakynthos"
-    ]
+      "Zakynthos",
+    ],
   },
   {
-    "id": 80,
-    "country": "Greenland",
-    "cities": [
+    id: 80,
+    country: "Greenland",
+    cities: [
       "Aasiaat",
       "Ilulissat",
       "Kapisillit",
@@ -35022,13 +34976,13 @@ const allCountries = [
       "Sisimiut",
       "Tasiilaq",
       "Upernavik",
-      "Uummannaq Kommune"
-    ]
+      "Uummannaq Kommune",
+    ],
   },
   {
-    "id": 81,
-    "country": "Guadeloupe",
-    "cities": [
+    id: 81,
+    country: "Guadeloupe",
+    cities: [
       "Anse-Bertrand",
       "Baie Mahault",
       "Baie-Mahault",
@@ -35056,26 +35010,26 @@ const allCountries = [
       "Terre-de-Bas",
       "Terre-de-Haut",
       "Trois-Rivieres",
-      "Village"
-    ]
+      "Village",
+    ],
   },
   {
-    "id": 82,
-    "country": "Grenada",
-    "cities": [
+    id: 82,
+    country: "Grenada",
+    cities: [
       "Carriacou and Petit Martinique",
       "Saint Andrew",
       "Saint David",
       "Saint George",
       "Saint John",
       "Saint Mark",
-      "Saint Patrick"
-    ]
+      "Saint Patrick",
+    ],
   },
   {
-    "id": 83,
-    "country": "Guernsey",
-    "cities": [
+    id: 83,
+    country: "Guernsey",
+    cities: [
       "Saint Peter Port",
       "St Martin",
       "St. Andrew`s",
@@ -35083,13 +35037,13 @@ const allCountries = [
       "Saint Saviour",
       "St Anne",
       "Saint Sampson",
-      "Torteval"
-    ]
+      "Torteval",
+    ],
   },
   {
-    "id": 84,
-    "country": "Guatemala",
-    "cities": [
+    id: 84,
+    country: "Guatemala",
+    cities: [
       "Antigua Guatemala",
       "Cambote",
       "Catarina",
@@ -35132,25 +35086,25 @@ const allCountries = [
       "Solola",
       "Villa Nueva",
       "Vista Hermosa",
-      "Zacapa"
-    ]
+      "Zacapa",
+    ],
   },
   {
-    "id": 85,
-    "country": "Guam",
-    "cities": [
+    id: 85,
+    country: "Guam",
+    cities: [
       "Barrigada Village",
       "Dededo Village",
       "Inarajan Village",
       "Santa Rita",
       "Tamuning-Tumon-Harmon Village",
-      "Yigo Village"
-    ]
+      "Yigo Village",
+    ],
   },
   {
-    "id": 86,
-    "country": "Guinea",
-    "cities": [
+    id: 86,
+    country: "Guinea",
+    cities: [
       "Conakry",
       "Dabola",
       "Kalia",
@@ -35158,13 +35112,13 @@ const allCountries = [
       "Lola",
       "Mamou",
       "Port Kamsar",
-      "Sangaredi"
-    ]
+      "Sangaredi",
+    ],
   },
   {
-    "id": 87,
-    "country": "Guinea-Bissau",
-    "cities": [
+    id: 87,
+    country: "Guinea-Bissau",
+    cities: [
       "Bafata",
       "Biombo",
       "Bissau",
@@ -35173,13 +35127,13 @@ const allCountries = [
       "Gabu",
       "Oio",
       "Quinara",
-      "Tombali"
-    ]
+      "Tombali",
+    ],
   },
   {
-    "id": 88,
-    "country": "Guyana",
-    "cities": [
+    id: 88,
+    country: "Guyana",
+    cities: [
       "Barima-Waini",
       "Cuyuni-Mazaruni",
       "Demerara-Mahaica",
@@ -35189,13 +35143,13 @@ const allCountries = [
       "Pomeroon-Supenaam",
       "Potaro-Siparuni",
       "Upper Demerara-Berbice",
-      "Upper Takutu-Upper Essequibo"
-    ]
+      "Upper Takutu-Upper Essequibo",
+    ],
   },
   {
-    "id": 89,
-    "country": "Haiti",
-    "cities": [
+    id: 89,
+    country: "Haiti",
+    cities: [
       "Carrefour",
       "Delmar",
       "Duverger",
@@ -35205,18 +35159,18 @@ const allCountries = [
       "Petionville",
       "Port-au-Prince",
       "Prince",
-      "Turgeau"
-    ]
+      "Turgeau",
+    ],
   },
   {
-    "id": 90,
-    "country": "Heard Island and McDonald Islands",
-    "cities": []
+    id: 90,
+    country: "Heard Island and McDonald Islands",
+    cities: [],
   },
   {
-    "id": 91,
-    "country": "Jordan",
-    "cities": [
+    id: 91,
+    country: "Jordan",
+    cities: [
       "Amman",
       "Ar Ramtha",
       "Al 'Aqabah",
@@ -35233,13 +35187,13 @@ const allCountries = [
       "Sahab",
       "Salt",
       "Jarash",
-      "Ma'an"
-    ]
+      "Ma'an",
+    ],
   },
   {
-    "id": 92,
-    "country": "Honduras",
-    "cities": [
+    id: 92,
+    country: "Honduras",
+    cities: [
       "Honduras",
       "Choloma",
       "Comayagua",
@@ -35259,13 +35213,13 @@ const allCountries = [
       "San Pedro Sula",
       "Santa Barbara",
       "Sula",
-      "Tegucigalpa"
-    ]
+      "Tegucigalpa",
+    ],
   },
   {
-    "id": 93,
-    "country": "Hong Kong",
-    "cities": [
+    id: 93,
+    country: "Hong Kong",
+    cities: [
       "Aberdeen",
       "Causeway Bay",
       "Central District",
@@ -35347,13 +35301,13 @@ const allCountries = [
       "Wong Tai Sin",
       "Yau Ma Tei",
       "Ying Pun",
-      "Yuen Long San Hui"
-    ]
+      "Yuen Long San Hui",
+    ],
   },
   {
-    "id": 94,
-    "country": "Hungary",
-    "cities": [
+    id: 94,
+    country: "Hungary",
+    cities: [
       "Abaujszanto",
       "Abda",
       "Abony",
@@ -36092,13 +36046,13 @@ const allCountries = [
       "Zirc",
       "Zsambek",
       "Zsambok",
-      "Zsombo"
-    ]
+      "Zsombo",
+    ],
   },
   {
-    "id": 95,
-    "country": "Iceland",
-    "cities": [
+    id: 95,
+    country: "Iceland",
+    cities: [
       "Akranes",
       "Akureyri",
       "Borgarnes",
@@ -36116,13 +36070,13 @@ const allCountries = [
       "Skagastrond",
       "Stokkseyri",
       "Vestmannaeyjar",
-      "Vogar"
-    ]
+      "Vogar",
+    ],
   },
   {
-    "id": 96,
-    "country": "India",
-    "cities": [
+    id: 96,
+    country: "India",
+    cities: [
       "Abdul",
       "Adilabad",
       "Adwani",
@@ -37132,13 +37086,13 @@ const allCountries = [
       "Yanam",
       "Yavatmal",
       "Yeola",
-      "Yercaud"
-    ]
+      "Yercaud",
+    ],
   },
   {
-    "id": 97,
-    "country": "Indonesia",
-    "cities": [
+    id: 97,
+    country: "Indonesia",
+    cities: [
       "Abadi",
       "Adiantorop",
       "Airmadidi",
@@ -37407,13 +37361,13 @@ const allCountries = [
       "Wonogiri",
       "Wonosari",
       "Wonosobo",
-      "Yogyakarta"
-    ]
+      "Yogyakarta",
+    ],
   },
   {
-    "id": 98,
-    "country": "Iran",
-    "cities": [
+    id: 98,
+    country: "Iran",
+    cities: [
       "`Aliabad",
       "`Aliabad-e Aq Hesar",
       "`Oryan",
@@ -37646,13 +37600,13 @@ const allCountries = [
       "Zahra",
       "Zangiabad",
       "Zanjan",
-      "Zarand"
-    ]
+      "Zarand",
+    ],
   },
   {
-    "id": 99,
-    "country": "Iraq",
-    "cities": [
+    id: 99,
+    country: "Iraq",
+    cities: [
       "Al `Amarah",
       "Al Hillah",
       "Baghdad",
@@ -37668,13 +37622,13 @@ const allCountries = [
       "Mosul",
       "Najaf",
       "Sulaymaniyah",
-      "Tikrit"
-    ]
+      "Tikrit",
+    ],
   },
   {
-    "id": 100,
-    "country": "Ireland",
-    "cities": [
+    id: 100,
+    country: "Ireland",
+    cities: [
       "Abbeyfeale",
       "Abbeyleix",
       "Ardee",
@@ -37965,13 +37919,13 @@ const allCountries = [
       "Wicklow",
       "Williamstown",
       "Windy Arbour",
-      "Youghal"
-    ]
+      "Youghal",
+    ],
   },
   {
-    "id": 101,
-    "country": "Isle of Man",
-    "cities": [
+    id: 101,
+    country: "Isle of Man",
+    cities: [
       "Ballasalla",
       "Castletown",
       "Crosby",
@@ -37984,13 +37938,13 @@ const allCountries = [
       "Port Erin",
       "Port Saint Mary",
       "Ramsey",
-      "Saint Johns"
-    ]
+      "Saint Johns",
+    ],
   },
   {
-    "id": 102,
-    "country": "Israel",
-    "cities": [
+    id: 102,
+    country: "Israel",
+    cities: [
       "`Alma",
       "`Amir",
       "`Arugot",
@@ -38141,13 +38095,13 @@ const allCountries = [
       "Yaqum",
       "Yavne",
       "Yehud",
-      "Zoran"
-    ]
+      "Zoran",
+    ],
   },
   {
-    "id": 103,
-    "country": "Italy",
-    "cities": [
+    id: 103,
+    country: "Italy",
+    cities: [
       "Abano Terme",
       "Abbadia Lariana",
       "Abbadia San Salvatore",
@@ -42542,13 +42496,13 @@ const allCountries = [
       "Zoldo Alto",
       "Zollino",
       "Zoppola",
-      "Zumaglia"
-    ]
+      "Zumaglia",
+    ],
   },
   {
-    "id": 104,
-    "country": "Ivory Coast",
-    "cities": [
+    id: 104,
+    country: "Ivory Coast",
+    cities: [
       "Abidjan",
       "Abobo",
       "Anyama",
@@ -42633,13 +42587,13 @@ const allCountries = [
       "Bounkani",
       "Gontougo",
       "Sinfra",
-      "Tanda"
-    ]
+      "Tanda",
+    ],
   },
   {
-    "id": 105,
-    "country": "Jamaica",
-    "cities": [
+    id: 105,
+    country: "Jamaica",
+    cities: [
       "Black River",
       "Browns Town",
       "Gordon Town",
@@ -42656,20 +42610,18 @@ const allCountries = [
       "Portland Cottage",
       "Portmore",
       "Runaway Bay",
-      "Spanish Town"
-    ]
+      "Spanish Town",
+    ],
   },
   {
-    "id": 106,
-    "country": "Jersey",
-    "cities": [
-      "St. Helier (settlement)"
-    ]
+    id: 106,
+    country: "Jersey",
+    cities: ["St. Helier (settlement)"],
   },
   {
-    "id": 107,
-    "country": "Japan",
-    "cities": [
+    id: 107,
+    country: "Japan",
+    cities: [
       "Abashiri",
       "Abiko",
       "Abira",
@@ -43834,13 +43786,13 @@ const allCountries = [
       "Yutaka",
       "Yuzawa",
       "Zama",
-      "Zushi"
-    ]
+      "Zushi",
+    ],
   },
   {
-    "id": 108,
-    "country": "Kazakhstan",
-    "cities": [
+    id: 108,
+    country: "Kazakhstan",
+    cities: [
       "Aksay",
       "Aksoran",
       "Almaty",
@@ -43882,13 +43834,13 @@ const allCountries = [
       "Uritskiy",
       "Ust-Kamenogorsk",
       "Vostok",
-      "Zyryanovsk"
-    ]
+      "Zyryanovsk",
+    ],
   },
   {
-    "id": 109,
-    "country": "Kenya",
-    "cities": [
+    id: 109,
+    country: "Kenya",
+    cities: [
       "Bondo",
       "Chuka",
       "Eldoret",
@@ -43911,18 +43863,18 @@ const allCountries = [
       "Siaya",
       "Thika",
       "Turbo",
-      "Wote"
-    ]
+      "Wote",
+    ],
   },
   {
-    "id": 110,
-    "country": "Kiribati",
-    "cities": []
+    id: 110,
+    country: "Kiribati",
+    cities: [],
   },
   {
-    "id": 111,
-    "country": "North Korea",
-    "cities": [
+    id: 111,
+    country: "North Korea",
+    cities: [
       "Chagang",
       "North Hamgyong",
       "South Hamgyong",
@@ -43935,24 +43887,18 @@ const allCountries = [
       "Kaesong",
       "Najin",
       "Namp'o",
-      "Pyongyang"
-    ]
+      "Pyongyang",
+    ],
   },
   {
-    "id": 112,
-    "country": "Kosovo",
-    "cities": [
-      "Dunavo",
-      "Ferizaj",
-      "Mitrovica",
-      "Pristina",
-      "Prizren"
-    ]
+    id: 112,
+    country: "Kosovo",
+    cities: ["Dunavo", "Ferizaj", "Mitrovica", "Pristina", "Prizren"],
   },
   {
-    "id": 113,
-    "country": "Kuwait",
-    "cities": [
+    id: 113,
+    country: "Kuwait",
+    cities: [
       "Abraq Khaytan",
       "Ad Dasmah",
       "Ad Dawhah",
@@ -43968,13 +43914,13 @@ const allCountries = [
       "Janub as Surrah",
       "Kayfan",
       "Kuwait City",
-      "Salwa"
-    ]
+      "Salwa",
+    ],
   },
   {
-    "id": 114,
-    "country": "Kyrgyzstan",
-    "cities": [
+    id: 114,
+    country: "Kyrgyzstan",
+    cities: [
       "Batken Oblasty",
       "Bishkek Shaary",
       "Chuy Oblasty",
@@ -43982,13 +43928,13 @@ const allCountries = [
       "Naryn Oblasty",
       "Osh Oblasty",
       "Talas Oblasty",
-      "Ysyk-Kol Oblasty"
-    ]
+      "Ysyk-Kol Oblasty",
+    ],
   },
   {
-    "id": 115,
-    "country": "Laos",
-    "cities": [
+    id: 115,
+    country: "Laos",
+    cities: [
       "Attapu",
       "Bokeo",
       "Bolikhamxai",
@@ -44006,13 +43952,13 @@ const allCountries = [
       "Xaignabouli",
       "Xaisomboun",
       "Xekong",
-      "Xiangkhoang"
-    ]
+      "Xiangkhoang",
+    ],
   },
   {
-    "id": 116,
-    "country": "Latvia",
-    "cities": [
+    id: 116,
+    country: "Latvia",
+    cities: [
       "Adazi",
       "Agenskalns",
       "Aizkraukle",
@@ -44060,13 +44006,13 @@ const allCountries = [
       "Varsava",
       "Ventspils",
       "Zasa",
-      "Zilupe"
-    ]
+      "Zilupe",
+    ],
   },
   {
-    "id": 117,
-    "country": "Lebanon",
-    "cities": [
+    id: 117,
+    country: "Lebanon",
+    cities: [
       "Aaley",
       "Adma",
       "Ashrafiye",
@@ -44084,13 +44030,13 @@ const allCountries = [
       "Sidon",
       "Tripoli",
       "Yanar",
-      "Zgharta"
-    ]
+      "Zgharta",
+    ],
   },
   {
-    "id": 118,
-    "country": "Lesotho",
-    "cities": [
+    id: 118,
+    country: "Lesotho",
+    cities: [
       "Berea",
       "Butha-Buthe",
       "Leribe",
@@ -44100,13 +44046,13 @@ const allCountries = [
       "Mokhotlong",
       "Qacha's Nek",
       "Quthing",
-      "Thaba-Tseka"
-    ]
+      "Thaba-Tseka",
+    ],
   },
   {
-    "id": 119,
-    "country": "Liberia",
-    "cities": [
+    id: 119,
+    country: "Liberia",
+    cities: [
       "Bomi",
       "Bong",
       "Gbarpolu",
@@ -44121,24 +44067,18 @@ const allCountries = [
       "Nimba",
       "River Cess",
       "River Gee",
-      "Sinoe"
-    ]
+      "Sinoe",
+    ],
   },
   {
-    "id": 120,
-    "country": "Libya",
-    "cities": [
-      "Benghazi",
-      "Misratah",
-      "Sabha",
-      "Tripoli",
-      "Zliten"
-    ]
+    id: 120,
+    country: "Libya",
+    cities: ["Benghazi", "Misratah", "Sabha", "Tripoli", "Zliten"],
   },
   {
-    "id": 121,
-    "country": "Liechtenstein",
-    "cities": [
+    id: 121,
+    country: "Liechtenstein",
+    cities: [
       "Balzers",
       "Bendern",
       "Eschen",
@@ -44152,13 +44092,13 @@ const allCountries = [
       "Schellenberg",
       "Triesen",
       "Triesenberg",
-      "Vaduz"
-    ]
+      "Vaduz",
+    ],
   },
   {
-    "id": 122,
-    "country": "Luxembourg",
-    "cities": [
+    id: 122,
+    country: "Luxembourg",
+    cities: [
       "Ahn",
       "Alzingen",
       "Bascharage",
@@ -44274,13 +44214,13 @@ const allCountries = [
       "Walferdange",
       "Wasserbillig",
       "Wolpert",
-      "Wormeldange"
-    ]
+      "Wormeldange",
+    ],
   },
   {
-    "id": 123,
-    "country": "Macedonia",
-    "cities": [
+    id: 123,
+    country: "Macedonia",
+    cities: [
       "Berovo",
       "Bitola",
       "Bogdanci",
@@ -44310,26 +44250,26 @@ const allCountries = [
       "Struga",
       "Strumica",
       "Tetovo",
-      "Veles"
-    ]
+      "Veles",
+    ],
   },
   {
-    "id": 124,
-    "country": "Madagascar",
-    "cities": [
+    id: 124,
+    country: "Madagascar",
+    cities: [
       "Ambanja",
       "Antananarivo",
       "Antsirabe",
       "Antsiranana",
       "Fianarantsoa",
       "Toamasina",
-      "Toliara"
-    ]
+      "Toliara",
+    ],
   },
   {
-    "id": 125,
-    "country": "Marshall Islands",
-    "cities": [
+    id: 125,
+    country: "Marshall Islands",
+    cities: [
       "Majuro",
       "Ebaye",
       "Arno",
@@ -44344,13 +44284,13 @@ const allCountries = [
       "Ujae",
       "Laura",
       "Rairok",
-      "Delap-Uliga-Djarrit"
-    ]
+      "Delap-Uliga-Djarrit",
+    ],
   },
   {
-    "id": 126,
-    "country": "Macau",
-    "cities": [
+    id: 126,
+    country: "Macau",
+    cities: [
       "Aomen",
       "Aumwnz",
       "Bán đảo Ma Cao",
@@ -44378,13 +44318,13 @@ const allCountries = [
       "Península de Macau",
       "Povoacao de Ka Ho",
       "Povoação de Hác Sá",
-      "Povoação de Lai Chi Van"
-    ]
+      "Povoação de Lai Chi Van",
+    ],
   },
   {
-    "id": 127,
-    "country": "Malawi",
-    "cities": [
+    id: 127,
+    country: "Malawi",
+    cities: [
       "Balaka",
       "Blantyre",
       "Chikwawa",
@@ -44411,13 +44351,13 @@ const allCountries = [
       "Rumphi",
       "Salima",
       "Thyolo",
-      "Zomba"
-    ]
+      "Zomba",
+    ],
   },
   {
-    "id": 128,
-    "country": "Malaysia",
-    "cities": [
+    id: 128,
+    country: "Malaysia",
+    cities: [
       "Alor Gajah",
       "Alor Star",
       "Ampang",
@@ -44691,13 +44631,13 @@ const allCountries = [
       "Teronoh",
       "Tumpat",
       "Ulu Tiram",
-      "Victoria"
-    ]
+      "Victoria",
+    ],
   },
   {
-    "id": 129,
-    "country": "Maldives",
-    "cities": [
+    id: 129,
+    country: "Maldives",
+    cities: [
       "Alifu",
       "Baa",
       "Dhaalu",
@@ -44717,13 +44657,13 @@ const allCountries = [
       "Seenu",
       "Shaviyani",
       "Thaa",
-      "Vaavu"
-    ]
+      "Vaavu",
+    ],
   },
   {
-    "id": 130,
-    "country": "Mali",
-    "cities": [
+    id: 130,
+    country: "Mali",
+    cities: [
       "Bamako (Capital)",
       "Gao",
       "Kayes",
@@ -44732,13 +44672,13 @@ const allCountries = [
       "Mopti",
       "Segou",
       "Sikasso",
-      "Tombouctou"
-    ]
+      "Tombouctou",
+    ],
   },
   {
-    "id": 131,
-    "country": "Malta",
-    "cities": [
+    id: 131,
+    country: "Malta",
+    cities: [
       "Attard",
       "Balzan",
       "Bingemma",
@@ -44804,13 +44744,13 @@ const allCountries = [
       "Xewkija",
       "Zabbar",
       "Zejtun",
-      "Zurrieq"
-    ]
+      "Zurrieq",
+    ],
   },
   {
-    "id": 132,
-    "country": "Martinique",
-    "cities": [
+    id: 132,
+    country: "Martinique",
+    cities: [
       "Case-Pilote",
       "Ducos",
       "Fort-de-France",
@@ -44828,13 +44768,13 @@ const allCountries = [
       "Sainte-Anne",
       "Sainte-Luce",
       "Sainte-Marie",
-      "Schoelcher"
-    ]
+      "Schoelcher",
+    ],
   },
   {
-    "id": 133,
-    "country": "Mauritania",
-    "cities": [
+    id: 133,
+    country: "Mauritania",
+    cities: [
       "Adrar",
       "Assaba",
       "Brakna",
@@ -44847,13 +44787,13 @@ const allCountries = [
       "Nouakchott",
       "Tagant",
       "Tiris Zemmour",
-      "Trarza"
-    ]
+      "Trarza",
+    ],
   },
   {
-    "id": 134,
-    "country": "Mauritius",
-    "cities": [
+    id: 134,
+    country: "Mauritius",
+    cities: [
       "Beau Bassin",
       "Chemin Grenier",
       "Ebene CyberCity",
@@ -44866,13 +44806,13 @@ const allCountries = [
       "Rose Hill",
       "Saint Jean",
       "Tamarin",
-      "Vacoas"
-    ]
+      "Vacoas",
+    ],
   },
   {
-    "id": 135,
-    "country": "Mayotte",
-    "cities": [
+    id: 135,
+    country: "Mayotte",
+    cities: [
       "Bandaboa",
       "Chiconi",
       "Combani",
@@ -44884,13 +44824,13 @@ const allCountries = [
       "Pamandzi",
       "Sada",
       "Tsingoni",
-      "Tsoundzou 1"
-    ]
+      "Tsoundzou 1",
+    ],
   },
   {
-    "id": 136,
-    "country": "Mexico",
-    "cities": [
+    id: 136,
+    country: "Mexico",
+    cities: [
       "Abasolo",
       "Acambaro",
       "Acambay",
@@ -45586,13 +45526,13 @@ const allCountries = [
       "Zinapecuaro",
       "Zitlala",
       "Zongolica",
-      "Zumpango"
-    ]
+      "Zumpango",
+    ],
   },
   {
-    "id": 137,
-    "country": "Moldova",
-    "cities": [
+    id: 137,
+    country: "Moldova",
+    cities: [
       "Anenii Noi",
       "Briceni",
       "Cahul",
@@ -45611,13 +45551,13 @@ const allCountries = [
       "Tighina",
       "Tiraspol",
       "Voinescu",
-      "Vulcanesti"
-    ]
+      "Vulcanesti",
+    ],
   },
   {
-    "id": 138,
-    "country": "Mongolia",
-    "cities": [
+    id: 138,
+    country: "Mongolia",
+    cities: [
       "Altai",
       "Arvayheer",
       "Baruun-Urt",
@@ -45638,13 +45578,13 @@ const allCountries = [
       "Ulaan-Uul",
       "Ulan Bator",
       "Uliastay",
-      "Undurkhaan"
-    ]
+      "Undurkhaan",
+    ],
   },
   {
-    "id": 139,
-    "country": "Montenegro",
-    "cities": [
+    id: 139,
+    country: "Montenegro",
+    cities: [
       "Budva",
       "Crna Gora",
       "Herceg Novi",
@@ -45654,18 +45594,18 @@ const allCountries = [
       "Pljevlja",
       "Podgorica",
       "Stari Bar",
-      "Ulcinj"
-    ]
+      "Ulcinj",
+    ],
   },
   {
-    "id": 140,
-    "country": "Monaco",
-    "cities": []
+    id: 140,
+    country: "Monaco",
+    cities: [],
   },
   {
-    "id": 141,
-    "country": "Montserrat",
-    "cities": [
+    id: 141,
+    country: "Montserrat",
+    cities: [
       "Amersham",
       "Baker Hill",
       "Bank Level",
@@ -45689,13 +45629,13 @@ const allCountries = [
       "Dyer's",
       "Elberton",
       "Fairfield",
-      "Fairy Walk"
-    ]
+      "Fairy Walk",
+    ],
   },
   {
-    "id": 142,
-    "country": "Morocco",
-    "cities": [
+    id: 142,
+    country: "Morocco",
+    cities: [
       "Afourer",
       "Agadir",
       "Ait Melloul",
@@ -45742,13 +45682,13 @@ const allCountries = [
       "Temara",
       "Tiflet",
       "Tiznit",
-      "Touissite"
-    ]
+      "Touissite",
+    ],
   },
   {
-    "id": 143,
-    "country": "Mozambique",
-    "cities": [
+    id: 143,
+    country: "Mozambique",
+    cities: [
       "Beira",
       "Maputo",
       "Matola",
@@ -45756,13 +45696,13 @@ const allCountries = [
       "Nampula",
       "Pemba",
       "Quelimane",
-      "Tete"
-    ]
+      "Tete",
+    ],
   },
   {
-    "id": 144,
-    "country": "Namibia",
-    "cities": [
+    id: 144,
+    country: "Namibia",
+    cities: [
       "Etunda",
       "Grootfontein",
       "Katima Mulilo",
@@ -45778,13 +45718,13 @@ const allCountries = [
       "Swakopmund",
       "Tsumeb",
       "Walvis Bay",
-      "Windhoek"
-    ]
+      "Windhoek",
+    ],
   },
   {
-    "id": 145,
-    "country": "Nauru",
-    "cities": [
+    id: 145,
+    country: "Nauru",
+    cities: [
       "Arijejen",
       "Denigomodu",
       "Menen",
@@ -45794,25 +45734,25 @@ const allCountries = [
       "Nibok",
       "Anabar",
       "Uaboe",
-      "Ijuw"
-    ]
+      "Ijuw",
+    ],
   },
   {
-    "id": 146,
-    "country": "Nepal",
-    "cities": [
+    id: 146,
+    country: "Nepal",
+    cities: [
       "Bharatpur",
       "Jawlakhel",
       "Kathmandu",
       "Lumbini",
       "Palpa",
-      "Patan"
-    ]
+      "Patan",
+    ],
   },
   {
-    "id": 147,
-    "country": "Netherlands",
-    "cities": [
+    id: 147,
+    country: "Netherlands",
+    cities: [
       "Aagtekerke",
       "Aalburg",
       "Aalden",
@@ -47256,24 +47196,18 @@ const allCountries = [
       "Zwartsluis",
       "Zwijndrecht",
       "Zwinderen",
-      "Zwolle"
-    ]
+      "Zwolle",
+    ],
   },
   {
-    "id": 148,
-    "country": "New Caledonia",
-    "cities": [
-      "Dumbea",
-      "Mont-Dore",
-      "Noumea",
-      "Nouville",
-      "Paita"
-    ]
+    id: 148,
+    country: "New Caledonia",
+    cities: ["Dumbea", "Mont-Dore", "Noumea", "Nouville", "Paita"],
   },
   {
-    "id": 149,
-    "country": "New Zealand",
-    "cities": [
+    id: 149,
+    country: "New Zealand",
+    cities: [
       "Ahaura",
       "Albany",
       "Amberley",
@@ -47551,13 +47485,13 @@ const allCountries = [
       "Woodend",
       "Woolston",
       "Wyndham",
-      "Yaldhurst"
-    ]
+      "Yaldhurst",
+    ],
   },
   {
-    "id": 150,
-    "country": "Nicaragua",
-    "cities": [
+    id: 150,
+    country: "Nicaragua",
+    cities: [
       "Bluefields",
       "Chinandega",
       "El Panama",
@@ -47570,13 +47504,13 @@ const allCountries = [
       "Matagalpa",
       "Ocotal",
       "Rivas",
-      "San Juan del Sur"
-    ]
+      "San Juan del Sur",
+    ],
   },
   {
-    "id": 151,
-    "country": "Niger",
-    "cities": [
+    id: 151,
+    country: "Niger",
+    cities: [
       "Abala",
       "Abalak",
       "Agadez",
@@ -47619,13 +47553,13 @@ const allCountries = [
       "Tibiri",
       "Tillabéri",
       "Torodi",
-      "Zinder"
-    ]
+      "Zinder",
+    ],
   },
   {
-    "id": 152,
-    "country": "Nigeria",
-    "cities": [
+    id: 152,
+    country: "Nigeria",
+    cities: [
       "Aba",
       "Abakaliki",
       "Abeokuta",
@@ -47712,13 +47646,13 @@ const allCountries = [
       "Warri",
       "Yaba",
       "Yola",
-      "Zaria"
-    ]
+      "Zaria",
+    ],
   },
   {
-    "id": 153,
-    "country": "Norway",
-    "cities": [
+    id: 153,
+    country: "Norway",
+    cities: [
       "Abelvaer",
       "Adalsbruk",
       "Adland",
@@ -48610,13 +48544,13 @@ const allCountries = [
       "Larsøya",
       "Kapp Fie",
       "Cape Lollo",
-      "Thompson Island"
-    ]
+      "Thompson Island",
+    ],
   },
   {
-    "id": 154,
-    "country": "Niue",
-    "cities": [
+    id: 154,
+    country: "Niue",
+    cities: [
       "Makefu",
       "Tuapa",
       "Namukulu",
@@ -48630,13 +48564,13 @@ const allCountries = [
       "Avatele",
       "Tamakautoga",
       "Alofi South",
-      "Alofi North"
-    ]
+      "Alofi North",
+    ],
   },
   {
-    "id": 155,
-    "country": "Norfolk Island",
-    "cities": [
+    id: 155,
+    country: "Norfolk Island",
+    cities: [
       "Kingston",
       "Anson Bay",
       "Bumboras",
@@ -48645,31 +48579,31 @@ const allCountries = [
       "Longridge",
       "Middlegate",
       "Rocky Point",
-      "Steeles Point"
-    ]
+      "Steeles Point",
+    ],
   },
   {
-    "id": 156,
-    "country": "Northern Mariana Islands",
-    "cities": []
+    id: 156,
+    country: "Northern Mariana Islands",
+    cities: [],
   },
   {
-    "id": 157,
-    "country": "Oman",
-    "cities": [
+    id: 157,
+    country: "Oman",
+    cities: [
       "Al Sohar",
       "Muscat",
       "Nizwa",
       "Ruwi",
       "Saham",
       "Salalah",
-      "Samad"
-    ]
+      "Samad",
+    ],
   },
   {
-    "id": 158,
-    "country": "Pakistan",
-    "cities": [
+    id: 158,
+    country: "Pakistan",
+    cities: [
       "Al Mawasi",
       "Bethlehem",
       "Gaza",
@@ -48677,20 +48611,18 @@ const allCountries = [
       "Jenin",
       "Jericho",
       "Nablus",
-      "Ramallah"
-    ]
+      "Ramallah",
+    ],
   },
   {
-    "id": 159,
-    "country": "Pitcairn",
-    "cities": [
-      "Adamstown"
-    ]
+    id: 159,
+    country: "Pitcairn",
+    cities: ["Adamstown"],
   },
   {
-    "id": 160,
-    "country": "Palau",
-    "cities": [
+    id: 160,
+    country: "Palau",
+    cities: [
       "Airai",
       "Kloulklubed",
       "Meyungs",
@@ -48714,13 +48646,13 @@ const allCountries = [
       "Imelchol Village",
       "Koska",
       "Urdmang",
-      "Ngriil"
-    ]
+      "Ngriil",
+    ],
   },
   {
-    "id": 161,
-    "country": "Panama",
-    "cities": [
+    id: 161,
+    country: "Panama",
+    cities: [
       "Aguadulce",
       "Albrook",
       "Ancon",
@@ -48792,13 +48724,13 @@ const allCountries = [
       "Veraguas",
       "Victoria",
       "Vista Alegre",
-      "Vista Hermosa"
-    ]
+      "Vista Hermosa",
+    ],
   },
   {
-    "id": 162,
-    "country": "Papua New Guinea",
-    "cities": [
+    id: 162,
+    country: "Papua New Guinea",
+    cities: [
       "Aitape",
       "Arawa",
       "Daru",
@@ -48825,13 +48757,13 @@ const allCountries = [
       "Vanimo",
       "Wabag",
       "Waigani",
-      "Wewak"
-    ]
+      "Wewak",
+    ],
   },
   {
-    "id": 163,
-    "country": "Paraguay",
-    "cities": [
+    id: 163,
+    country: "Paraguay",
+    cities: [
       "Ayolas",
       "Boqueron",
       "Chore",
@@ -48858,13 +48790,13 @@ const allCountries = [
       "Villa Elisa",
       "Villa Hayes",
       "Villarrica",
-      "Yataity"
-    ]
+      "Yataity",
+    ],
   },
   {
-    "id": 164,
-    "country": "Peru",
-    "cities": [
+    id: 164,
+    country: "Peru",
+    cities: [
       "Abancay",
       "Arequipa",
       "Ate",
@@ -48946,13 +48878,13 @@ const allCountries = [
       "Trujillo",
       "Tumbes",
       "Ventanilla",
-      "Victoria"
-    ]
+      "Victoria",
+    ],
   },
   {
-    "id": 165,
-    "country": "Philippines",
-    "cities": [
+    id: 165,
+    country: "Philippines",
+    cities: [
       "Abucay",
       "Acacia",
       "Aguilar",
@@ -49319,13 +49251,13 @@ const allCountries = [
       "West",
       "West Triangle",
       "Wines",
-      "Zamboanga City"
-    ]
+      "Zamboanga City",
+    ],
   },
   {
-    "id": 166,
-    "country": "Poland",
-    "cities": [
+    id: 166,
+    country: "Poland",
+    cities: [
       "Adama",
       "Alwernia",
       "Andrespol",
@@ -50926,13 +50858,13 @@ const allCountries = [
       "Zukowo",
       "Zurawica",
       "Zwolen",
-      "Zyrakow"
-    ]
+      "Zyrakow",
+    ],
   },
   {
-    "id": 167,
-    "country": "Portugal",
-    "cities": [
+    id: 167,
+    country: "Portugal",
+    cities: [
       "Abobada",
       "Abrantes",
       "Acores",
@@ -51605,13 +51537,13 @@ const allCountries = [
       "Viseu",
       "Vizela",
       "Zambujal",
-      "Zibreira"
-    ]
+      "Zibreira",
+    ],
   },
   {
-    "id": 168,
-    "country": "Puerto Rico",
-    "cities": [
+    id: 168,
+    country: "Puerto Rico",
+    cities: [
       "Adjuntas",
       "Aguada",
       "Aguadilla",
@@ -51698,13 +51630,13 @@ const allCountries = [
       "Vieques",
       "Villalba",
       "Yabucoa",
-      "Yauco"
-    ]
+      "Yauco",
+    ],
   },
   {
-    "id": 169,
-    "country": "South Korea",
-    "cities": [
+    id: 169,
+    country: "South Korea",
+    cities: [
       "Andong",
       "Ansan-si",
       "Anseong",
@@ -51813,13 +51745,13 @@ const allCountries = [
       "South Jeolla Province",
       "North Gyeongsang Province",
       "South Gyeongsang Province",
-      "Jeju"
-    ]
+      "Jeju",
+    ],
   },
   {
-    "id": 170,
-    "country": "Lithuania",
-    "cities": [
+    id: 170,
+    country: "Lithuania",
+    cities: [
       "Alytus",
       "Anciskiai",
       "Antakalnis",
@@ -51842,13 +51774,13 @@ const allCountries = [
       "Vievis",
       "Vilniaus Apskritis",
       "Vilnius",
-      "Visaginas"
-    ]
+      "Visaginas",
+    ],
   },
   {
-    "id": 171,
-    "country": "Qatar",
-    "cities": [
+    id: 171,
+    country: "Qatar",
+    cities: [
       "Ad Dawhah",
       "Al Ghuwayriyah",
       "Al Jumayliyah",
@@ -51858,13 +51790,13 @@ const allCountries = [
       "Jarayan al Batinah",
       "Madinat ash Shamal",
       "Umm Sa'id",
-      "Umm Salal"
-    ]
+      "Umm Salal",
+    ],
   },
   {
-    "id": 172,
-    "country": "Romania",
-    "cities": [
+    id: 172,
+    country: "Romania",
+    cities: [
       "Adjud",
       "Afumati",
       "Agnita",
@@ -52213,13 +52145,13 @@ const allCountries = [
       "Voluntari",
       "Voronet",
       "Zetea",
-      "Zimnicea"
-    ]
+      "Zimnicea",
+    ],
   },
   {
-    "id": 173,
-    "country": "Russia",
-    "cities": [
+    id: 173,
+    country: "Russia",
+    cities: [
       "Abakan",
       "Abinsk",
       "Achinsk",
@@ -53223,13 +53155,13 @@ const allCountries = [
       "Zubovo",
       "Zvenigorod",
       "Zvenigovo",
-      "Zvezda"
-    ]
+      "Zvezda",
+    ],
   },
   {
-    "id": 174,
-    "country": "Rwanda",
-    "cities": [
+    id: 174,
+    country: "Rwanda",
+    cities: [
       "Butare",
       "Byumba",
       "Cyangugu",
@@ -53241,13 +53173,13 @@ const allCountries = [
       "Kigali Rurale",
       "Kigali-ville",
       "Umutara",
-      "Ruhengeri"
-    ]
+      "Ruhengeri",
+    ],
   },
   {
-    "id": 175,
-    "country": "Réunion",
-    "cities": [
+    id: 175,
+    country: "Réunion",
+    cities: [
       "Saint-Denis",
       "Saint-Paul",
       "Saint-Pierre",
@@ -53261,13 +53193,13 @@ const allCountries = [
       "Piton Saint-Leu",
       "Saint-Leu",
       "La Possession",
-      "Sainte-Suzanne"
-    ]
+      "Sainte-Suzanne",
+    ],
   },
   {
-    "id": 176,
-    "country": "Samoa",
-    "cities": [
+    id: 176,
+    country: "Samoa",
+    cities: [
       "A'ana",
       "Aiga-i-le-Tai",
       "Atua",
@@ -53278,13 +53210,13 @@ const allCountries = [
       "Satupa'itea",
       "Tuamasaga",
       "Va'a-o-Fonoti",
-      "Vaisigano"
-    ]
+      "Vaisigano",
+    ],
   },
   {
-    "id": 177,
-    "country": "Saint Lucia",
-    "cities": [
+    id: 177,
+    country: "Saint Lucia",
+    cities: [
       "Anse La Raye",
       "Au Tabor",
       "Babonneau",
@@ -53306,24 +53238,18 @@ const allCountries = [
       "Soufrière",
       "Ti Rocher, Castries",
       "Ti Rocher, Micoud",
-      "Vieux Fort"
-    ]
+      "Vieux Fort",
+    ],
   },
   {
-    "id": 178,
-    "country": "San Marino",
-    "cities": [
-      "Acquaviva",
-      "Falciano",
-      "Fiorentino",
-      "San Marino",
-      "Serravalle"
-    ]
+    id: 178,
+    country: "San Marino",
+    cities: ["Acquaviva", "Falciano", "Fiorentino", "San Marino", "Serravalle"],
   },
   {
-    "id": 179,
-    "country": "Saint Kitts and Nevis",
-    "cities": [
+    id: 179,
+    country: "Saint Kitts and Nevis",
+    cities: [
       "Basseterre",
       "Cayon",
       "Charlestown",
@@ -53331,21 +53257,18 @@ const allCountries = [
       "Gingerland",
       "Newcastle",
       "Old Road Town",
-      "Sandy Point Town"
-    ]
+      "Sandy Point Town",
+    ],
   },
   {
-    "id": 180,
-    "country": "Saint Pierre and Miquelon",
-    "cities": [
-      "Miquelon-Langlade",
-      "Saint-Pierre"
-    ]
+    id: 180,
+    country: "Saint Pierre and Miquelon",
+    cities: ["Miquelon-Langlade", "Saint-Pierre"],
   },
   {
-    "id": 181,
-    "country": "Saint Vincent and the Grenadines",
-    "cities": [
+    id: 181,
+    country: "Saint Vincent and the Grenadines",
+    cities: [
       "Adelphi",
       "Arnos Vale",
       "Ashton",
@@ -53446,13 +53369,13 @@ const allCountries = [
       "Vermont",
       "Villa",
       "Wallibou",
-      "Waterlo"
-    ]
+      "Waterlo",
+    ],
   },
   {
-    "id": 182,
-    "country": "Saudi Arabia",
-    "cities": [
+    id: 182,
+    country: "Saudi Arabia",
+    cities: [
       "Abha",
       "Abqaiq",
       "Al Bahah",
@@ -53490,13 +53413,13 @@ const allCountries = [
       "Sambah",
       "Sayhat",
       "Tabuk",
-      "Yanbu` al Bahr"
-    ]
+      "Yanbu` al Bahr",
+    ],
   },
   {
-    "id": 183,
-    "country": "Senegal",
-    "cities": [
+    id: 183,
+    country: "Senegal",
+    cities: [
       "Boussinki",
       "Camberene",
       "Dakar",
@@ -53508,13 +53431,13 @@ const allCountries = [
       "Madina Kokoun",
       "Saint-Louis",
       "Sama",
-      "Tanaf"
-    ]
+      "Tanaf",
+    ],
   },
   {
-    "id": 184,
-    "country": "South Georgia and the South Sandwich Islands",
-    "cities": [
+    id: 184,
+    country: "South Georgia and the South Sandwich Islands",
+    cities: [
       "Corbeta Uruguay base (settlement)",
       "Godthul (settlement)",
       "Grytviken (settlement)",
@@ -53524,13 +53447,13 @@ const allCountries = [
       "Ocean Harbour (settlement)",
       "Prince Olav Harbour (settlement)",
       "Rosita Harbour (settlement)",
-      "Stromness (settlement)"
-    ]
+      "Stromness (settlement)",
+    ],
   },
   {
-    "id": 185,
-    "country": "Sao Tome and Principe",
-    "cities": [
+    id: 185,
+    country: "Sao Tome and Principe",
+    cities: [
       "São Tomé",
       "Santo Amaro",
       "Neves",
@@ -53541,13 +53464,13 @@ const allCountries = [
       "Guadalupe",
       "Santo António",
       "Santa Catarina",
-      "Porto Alegre"
-    ]
+      "Porto Alegre",
+    ],
   },
   {
-    "id": 186,
-    "country": "Sierra Leone",
-    "cities": [
+    id: 186,
+    country: "Sierra Leone",
+    cities: [
       "Port Loko",
       "Wangechi",
       "Kalewa",
@@ -53570,13 +53493,13 @@ const allCountries = [
       "Yana",
       "Yele",
       "Yengema",
-      "Yonibana"
-    ]
+      "Yonibana",
+    ],
   },
   {
-    "id": 187,
-    "country": "Serbia",
-    "cities": [
+    id: 187,
+    country: "Serbia",
+    cities: [
       "Ada",
       "Aleksinac",
       "Apatin",
@@ -53669,13 +53592,13 @@ const allCountries = [
       "Zajecar",
       "Zemun Polje",
       "Zlatibor",
-      "Zrenjanin"
-    ]
+      "Zrenjanin",
+    ],
   },
   {
-    "id": 188,
-    "country": "Seychelles",
-    "cities": [
+    id: 188,
+    country: "Seychelles",
+    cities: [
       "Anse aux Pins",
       "Anse Boileau",
       "Anse Etoile",
@@ -53698,13 +53621,13 @@ const allCountries = [
       "Pointe La Rue",
       "Port Glaud",
       "Saint Louis",
-      "Takamaka"
-    ]
+      "Takamaka",
+    ],
   },
   {
-    "id": 189,
-    "country": "Singapore",
-    "cities": [
+    id: 189,
+    country: "Singapore",
+    cities: [
       "Ang Mo Kio New Town",
       "Ayer Raja New Town",
       "Bedok New Town",
@@ -53738,13 +53661,13 @@ const allCountries = [
       "Toa Payoh New Town",
       "Woodlands New Town",
       "Yew Tee",
-      "Yishun New Town"
-    ]
+      "Yishun New Town",
+    ],
   },
   {
-    "id": 190,
-    "country": "Slovakia",
-    "cities": [
+    id: 190,
+    country: "Slovakia",
+    cities: [
       "Bahon",
       "Baka",
       "Banovce nad Bebravou",
@@ -53974,13 +53897,13 @@ const allCountries = [
       "Zikava",
       "Zlate",
       "Zuberec",
-      "Zvolen"
-    ]
+      "Zvolen",
+    ],
   },
   {
-    "id": 191,
-    "country": "Slovenia",
-    "cities": [
+    id: 191,
+    country: "Slovenia",
+    cities: [
       "Ankaran",
       "Begunje na Gorenjskem",
       "Beltinci",
@@ -54132,13 +54055,13 @@ const allCountries = [
       "Zgornje Hoce",
       "Zgornje Skofije",
       "Zidani Most",
-      "Ziri"
-    ]
+      "Ziri",
+    ],
   },
   {
-    "id": 192,
-    "country": "Solomon Islands",
-    "cities": [
+    id: 192,
+    country: "Solomon Islands",
+    cities: [
       "Central",
       "Choiseul",
       "Guadalcanal",
@@ -54148,13 +54071,13 @@ const allCountries = [
       "Malaita",
       "Rennell and Bellona",
       "Temotu",
-      "Western"
-    ]
+      "Western",
+    ],
   },
   {
-    "id": 193,
-    "country": "Somalia",
-    "cities": [
+    id: 193,
+    country: "Somalia",
+    cities: [
       "Awdal",
       "Bakool",
       "Banaadir",
@@ -54172,13 +54095,13 @@ const allCountries = [
       "Shabeellaha Hoose",
       "Sool",
       "Togdheer",
-      "Woqooyi Galbeed"
-    ]
+      "Woqooyi Galbeed",
+    ],
   },
   {
-    "id": 194,
-    "country": "South Africa",
-    "cities": [
+    id: 194,
+    country: "South Africa",
+    cities: [
       "Alberton",
       "Alice",
       "Alrode",
@@ -54503,13 +54426,13 @@ const allCountries = [
       "Wonderboom",
       "Worcester",
       "Wynberg",
-      "Zeerust"
-    ]
+      "Zeerust",
+    ],
   },
   {
-    "id": 195,
-    "country": "Spain",
-    "cities": [
+    id: 195,
+    country: "Spain",
+    cities: [
       "A Cidade",
       "A Estrada",
       "A Pobra do Caraminal",
@@ -56918,13 +56841,13 @@ const allCountries = [
       "Zubiri",
       "Zuera",
       "Zumaia",
-      "Zumarraga"
-    ]
+      "Zumarraga",
+    ],
   },
   {
-    "id": 196,
-    "country": "Sri Lanka",
-    "cities": [
+    id: 196,
+    country: "Sri Lanka",
+    cities: [
       "Badulla",
       "Battaramulla South",
       "Biyagama",
@@ -56961,25 +56884,18 @@ const allCountries = [
       "Sri Jayewardenepura Kotte",
       "Talapathpitiya",
       "Wattala",
-      "Wellampitiya"
-    ]
+      "Wellampitiya",
+    ],
   },
   {
-    "id": 197,
-    "country": "Sudan",
-    "cities": [
-      "Kassala",
-      "Khartoum",
-      "Nyala",
-      "Shendi",
-      "Thabit",
-      "Umm Durman"
-    ]
+    id: 197,
+    country: "Sudan",
+    cities: ["Kassala", "Khartoum", "Nyala", "Shendi", "Thabit", "Umm Durman"],
   },
   {
-    "id": 198,
-    "country": "Suriname",
-    "cities": [
+    id: 198,
+    country: "Suriname",
+    cities: [
       "Botopasi",
       "Brownsweg",
       "Friendship",
@@ -56988,24 +56904,18 @@ const allCountries = [
       "Nieuw Amsterdam",
       "Onverwacht",
       "Paramaribo",
-      "Totness"
-    ]
+      "Totness",
+    ],
   },
   {
-    "id": 199,
-    "country": "Swaziland",
-    "cities": [
-      "Kwaluseni",
-      "Lobamba",
-      "Manzini",
-      "Mbabane",
-      "Piggs Peak"
-    ]
+    id: 199,
+    country: "Swaziland",
+    cities: ["Kwaluseni", "Lobamba", "Manzini", "Mbabane", "Piggs Peak"],
   },
   {
-    "id": 200,
-    "country": "Sweden",
-    "cities": [
+    id: 200,
+    country: "Sweden",
+    cities: [
       "Aby",
       "AElmhult",
       "AElvdalen",
@@ -58215,13 +58125,13 @@ const allCountries = [
       "Yngsjo",
       "Ystad",
       "Ytterby",
-      "Zinkgruvan"
-    ]
+      "Zinkgruvan",
+    ],
   },
   {
-    "id": 201,
-    "country": "Switzerland",
-    "cities": [
+    id: 201,
+    country: "Switzerland",
+    cities: [
       "Aadorf",
       "Aarau",
       "Aarberg",
@@ -59511,13 +59421,13 @@ const allCountries = [
       "Zurich",
       "Zuzgen",
       "Zuzwil",
-      "Zwingen"
-    ]
+      "Zwingen",
+    ],
   },
   {
-    "id": 202,
-    "country": "Syria",
-    "cities": [
+    id: 202,
+    country: "Syria",
+    cities: [
       "Al Hasakah",
       "Al Ladhiqiyah",
       "Al Qunaytirah",
@@ -59531,13 +59441,13 @@ const allCountries = [
       "Hims",
       "Idlib",
       "Rif Dimashq",
-      "Tartus"
-    ]
+      "Tartus",
+    ],
   },
   {
-    "id": 203,
-    "country": "Taiwan",
-    "cities": [
+    id: 203,
+    country: "Taiwan",
+    cities: [
       "Budai",
       "Caogang",
       "Chang-hua",
@@ -59603,13 +59513,13 @@ const allCountries = [
       "Yunlin County",
       "Zhubei",
       "Zhunan",
-      "Zhuqi"
-    ]
+      "Zhuqi",
+    ],
   },
   {
-    "id": 204,
-    "country": "Tanzania",
-    "cities": [
+    id: 204,
+    country: "Tanzania",
+    cities: [
       "Arusha",
       "Bukoba",
       "Dar es Salaam",
@@ -59619,13 +59529,13 @@ const allCountries = [
       "Njombe",
       "Raha",
       "Tanga",
-      "Zanzibar"
-    ]
+      "Zanzibar",
+    ],
   },
   {
-    "id": 205,
-    "country": "Thailand",
-    "cities": [
+    id: 205,
+    country: "Thailand",
+    cities: [
       "Amnat Charoen",
       "Amphawa",
       "Amphoe Aranyaprathet",
@@ -59790,29 +59700,23 @@ const allCountries = [
       "Watthana",
       "Wiphawadi",
       "Yala",
-      "Yasothon"
-    ]
+      "Yasothon",
+    ],
   },
   {
-    "id": 206,
-    "country": "Togo",
-    "cities": [
-      "Kara",
-      "Plateaux",
-      "Savanes",
-      "Centrale",
-      "Maritime"
-    ]
+    id: 206,
+    country: "Togo",
+    cities: ["Kara", "Plateaux", "Savanes", "Centrale", "Maritime"],
   },
   {
-    "id": 207,
-    "country": "Tonga",
-    "cities": []
+    id: 207,
+    country: "Tonga",
+    cities: [],
   },
   {
-    "id": 208,
-    "country": "Trinidad and Tobago",
-    "cities": [
+    id: 208,
+    country: "Trinidad and Tobago",
+    cities: [
       "Arima",
       "Arouca",
       "Barataria",
@@ -59861,13 +59765,13 @@ const allCountries = [
       "Valsayn",
       "Victoria",
       "Ward of Tacarigua",
-      "Woodbrook"
-    ]
+      "Woodbrook",
+    ],
   },
   {
-    "id": 209,
-    "country": "Tunisia",
-    "cities": [
+    id: 209,
+    country: "Tunisia",
+    cities: [
       "Ariana",
       "Beja",
       "Gafsa",
@@ -59879,13 +59783,13 @@ const allCountries = [
       "Sfax",
       "Sidi Bouzid",
       "Sousse",
-      "Tunis"
-    ]
+      "Tunis",
+    ],
   },
   {
-    "id": 210,
-    "country": "Turkey",
-    "cities": [
+    id: 210,
+    country: "Turkey",
+    cities: [
       "Adana",
       "Adıyaman",
       "Afyonkarahisar",
@@ -59966,24 +59870,24 @@ const allCountries = [
       "Karabük",
       "Kilis",
       "Osmaniye",
-      "Düzce"
-    ]
+      "Düzce",
+    ],
   },
   {
-    "id": 211,
-    "country": "Turkmenistan",
-    "cities": [
+    id: 211,
+    country: "Turkmenistan",
+    cities: [
       "Ahal Welayaty (Ashgabat)",
       "Balkan Welayaty (Balkanabat)",
       "Dashoguz Welayaty",
       "Lebap Welayaty (Turkmenabat)",
-      "Mary Welayaty"
-    ]
+      "Mary Welayaty",
+    ],
   },
   {
-    "id": 212,
-    "country": "Uganda",
-    "cities": [
+    id: 212,
+    country: "Uganda",
+    cities: [
       "Adjumani",
       "Apac",
       "Arua",
@@ -60039,13 +59943,13 @@ const allCountries = [
       "Soroti",
       "Tororo",
       "Wakiso",
-      "Yumbe"
-    ]
+      "Yumbe",
+    ],
   },
   {
-    "id": 213,
-    "country": "Ukraine",
-    "cities": [
+    id: 213,
+    country: "Ukraine",
+    cities: [
       "Aleksandriya",
       "Aleksandrovka",
       "Alekseyevo-Druzhkovka",
@@ -60272,13 +60176,13 @@ const allCountries = [
       "Zlazne",
       "Zmiyiv",
       "Zolochiv",
-      "Zolotonosha"
-    ]
+      "Zolotonosha",
+    ],
   },
   {
-    "id": 214,
-    "country": "United Arab Emirates",
-    "cities": [
+    id: 214,
+    country: "United Arab Emirates",
+    cities: [
       "Abu Dhabi",
       "Al Ain",
       "Al Khan",
@@ -60288,13 +60192,13 @@ const allCountries = [
       "Dubai",
       "Fujairah",
       "Ras al-Khaimah",
-      "Sharjah"
-    ]
+      "Sharjah",
+    ],
   },
   {
-    "id": 215,
-    "country": "United Kingdom",
-    "cities": [
+    id: 215,
+    country: "United Kingdom",
+    cities: [
       "Abberton",
       "Abbots Langley",
       "Aberaeron",
@@ -63220,13 +63124,13 @@ const allCountries = [
       "Ystalyfera",
       "Ystrad Mynach",
       "Ystradgynlais",
-      "Zeals"
-    ]
+      "Zeals",
+    ],
   },
   {
-    "id": 216,
-    "country": "United States",
-    "cities": [
+    id: 216,
+    country: "United States",
+    cities: [
       "Abbeville",
       "Abbotsford",
       "Abbottstown",
@@ -76944,13 +76848,13 @@ const allCountries = [
       "Zumbrota",
       "Zuni",
       "Zurich",
-      "Zwingle"
-    ]
+      "Zwingle",
+    ],
   },
   {
-    "id": 217,
-    "country": "Uruguay",
-    "cities": [
+    id: 217,
+    country: "Uruguay",
+    cities: [
       "Barra de Carrasco",
       "Canelones",
       "Colonia del Sacramento",
@@ -76966,13 +76870,13 @@ const allCountries = [
       "Salto",
       "San Carlos",
       "Toledo",
-      "Union"
-    ]
+      "Union",
+    ],
   },
   {
-    "id": 218,
-    "country": "Uzbekistan",
-    "cities": [
+    id: 218,
+    country: "Uzbekistan",
+    cities: [
       "Andijon Viloyati",
       "Buxoro Viloyati",
       "Farg'ona Viloyati",
@@ -76986,30 +76890,23 @@ const allCountries = [
       "Surxondaryo Viloyati",
       "Toshkent Shahri",
       "Toshkent Viloyati",
-      "Xorazm Viloyati"
-    ]
+      "Xorazm Viloyati",
+    ],
   },
   {
-    "id": 219,
-    "country": "Vanuatu",
-    "cities": [
-      "Malampa",
-      "Penama",
-      "Sanma",
-      "Shefa",
-      "Tafea",
-      "Torba"
-    ]
+    id: 219,
+    country: "Vanuatu",
+    cities: ["Malampa", "Penama", "Sanma", "Shefa", "Tafea", "Torba"],
   },
   {
-    "id": 220,
-    "country": "Vatican City State (Holy See)",
-    "cities": []
+    id: 220,
+    country: "Vatican City State (Holy See)",
+    cities: [],
   },
   {
-    "id": 221,
-    "country": "Wallis and Futuna",
-    "cities": [
+    id: 221,
+    country: "Wallis and Futuna",
+    cities: [
       "Alele",
       "Vaitupu",
       "Mala'e",
@@ -77045,13 +76942,13 @@ const allCountries = [
       "Nuku",
       "Fiua",
       "Vaisei",
-      "Tavai"
-    ]
+      "Tavai",
+    ],
   },
   {
-    "id": 222,
-    "country": "Venezuela",
-    "cities": [
+    id: 222,
+    country: "Venezuela",
+    cities: [
       "Acarigua",
       "Anaco",
       "Araure",
@@ -77141,13 +77038,13 @@ const allCountries = [
       "Valencia",
       "Valera",
       "Valle",
-      "Vargas"
-    ]
+      "Vargas",
+    ],
   },
   {
-    "id": 223,
-    "country": "Vietnam",
-    "cities": [
+    id: 223,
+    country: "Vietnam",
+    cities: [
       "An Dinh",
       "An Giang",
       "An Nhon",
@@ -77259,13 +77156,13 @@ const allCountries = [
       "Xom Thang",
       "Xom Truong Dinh",
       "Yen Bai",
-      "Yen Thanh"
-    ]
+      "Yen Thanh",
+    ],
   },
   {
-    "id": 224,
-    "country": "Yemen",
-    "cities": [
+    id: 224,
+    country: "Yemen",
+    cities: [
       "Abyan",
       "'Adan",
       "Ad Dali'",
@@ -77284,13 +77181,13 @@ const allCountries = [
       "Sa'dah",
       "San'a'",
       "Shabwah",
-      "Ta'izz"
-    ]
+      "Ta'izz",
+    ],
   },
   {
-    "id": 225,
-    "country": "Zambia",
-    "cities": [
+    id: 225,
+    country: "Zambia",
+    cities: [
       "Kalomo",
       "Kitwe",
       "Livingstone",
@@ -77299,13 +77196,13 @@ const allCountries = [
       "Mumbwa",
       "Ndola",
       "Siavonga",
-      "Solwezi"
-    ]
+      "Solwezi",
+    ],
   },
   {
-    "id": 226,
-    "country": "Zimbabwe",
-    "cities": [
+    id: 226,
+    country: "Zimbabwe",
+    cities: [
       "Bulawayo",
       "Chinhoyi",
       "Greendale",
@@ -77314,9 +77211,93 @@ const allCountries = [
       "Kwekwe",
       "Mufakose",
       "Mutare",
-      "Victoria Falls"
-    ]
-  }
-]
+      "Victoria Falls",
+    ],
+  },
+  {
+    id: 227,
+    country: "Birmingham (UK)",
+    cities: [
+      "Acocks Green",
+      "Bartley Green",
+      "Billesley",
+      "Bordesley Green",
+      "Bournville",
+      "Brandwood",
+      "Edgbaston",
+      "Erdington",
+      "Hall Green",
+      "Handsworth Wood",
+      "Harborne",
+      "Hodge Hill",
+      "Kings Norton",
+      "Kingstanding",
+      "Ladywood",
+      "Longbridge",
+      "Lozells and East Handsworth",
+      "Moseley and Kings Heath",
+      "Nechells",
+      "Northfield",
+      "Oscott",
+      "Perry Barr",
+      "Quinton",
+      "Selly Oak",
+      "Shard End",
+      "Sheldon",
+      "Soho",
+      "South Yardley",
+      "Sparkbrook",
+      "Springfield",
+      "Stechford and Yardley North",
+      "Stockland Green",
+      "Sutton Four Oaks",
+      "Sutton New Hall",
+      "Sutton Trinity",
+      "Sutton Vesey",
+      "Tyburn",
+      "Washwood Heath",
+      "Weoley",
+      "Birmingham City Centre",
+    ],
+  },
+  {
+    id: 228,
+    country: "United Kingdom",
+    cities: [
+      "Birmingham",
+      "Bradford",
+      "Bristol",
+      "Canterbury",
+      "Chester",
+      "Coventry",
+      "Exeter",
+      "Kingston-upon-Hull",
+      "Leeds",
+      "Leicester",
+      "Liverpool",
+      "London",
+      "Manchester",
+      "Newcastle-upon-Tyne",
+      "Norwich",
+      "Nottingham",
+      "Oxford",
+      "Plymouth",
+      "Portsmouth",
+      "Sheffield",
+      "Southampton",
+      "Stoke on Trent",
+      "Westminster",
+      "York",
+      "Armagh",
+      "Belfast",
+      "Aberdeen",
+      "Dundee",
+      "Edinburgh",
+      "Glasgow",
+      "Cardiff",
+      "Swansea",
+    ],
+  },
+];
 
-export default  allCountries
+export default allCountries;

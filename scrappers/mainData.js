@@ -37,7 +37,7 @@ const scrapeGM = async (searchTerm, displayScraping, countrySelected, city) => {
 
     for (let j = 0; j < allUrls.length; j++) {
       await page.goto(allUrls[j]);
-      await delay(4);
+      await delay(2);
       
       try {
         placeName = await page.$eval(selectors.placeName, (el) =>
@@ -115,12 +115,12 @@ const scrapeGM = async (searchTerm, displayScraping, countrySelected, city) => {
       } catch (e) {
         phoneNumber = "";
       }
-      const url =  page.url()
+      // const url =  page.url()
     
-      const long_lat = url.match(/@(-?\d+\.\d+),(-?\d+\.\d+)/);
+      // const long_lat = url.match(/@(-?\d+\.\d+),(-?\d+\.\d+)/);
 
-      const latitude = long_lat[1];
-      const longitude = long_lat[2];
+      // const latitude = long_lat[1];
+      // const longitude = long_lat[2];
 
       // navigate to website to coolect emails 
       let emails = [];
@@ -137,10 +137,11 @@ const scrapeGM = async (searchTerm, displayScraping, countrySelected, city) => {
         ["Website"]: website,
         ["Phone Number"]: phoneNumber,
         ["Address"]: fullAddress,
-        ['Latitude']: latitude,
-        ['Longitude']: longitude,
+        // ['Latitude']: latitude,
+        // ['Longitude']: longitude,
         ['Emails']: emails,
-        ["_id"]: uuidv4(),
+        ['City']: `${city}`
+       // ["_id"]: uuidv4(),
       }
       if(emails[0]){
         data['emails 1'] = emails[0]
